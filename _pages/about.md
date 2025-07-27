@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Associate at <a href='https://www.imperial.ac.uk/hamlyn-centre/'>Imperial College London</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
