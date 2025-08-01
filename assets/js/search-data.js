@@ -515,7 +515,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0001-7168-492X", "_blank");
+          window.open("https://orcid.org/0000-0001-7168-492X", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -523,6 +523,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=6wK9sHEAAAAJ&hl", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://profiles.imperial.ac.uk/j.shi", "_blank");
         },
       },{
         id: 'social-x',
