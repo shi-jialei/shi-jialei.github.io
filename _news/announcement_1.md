@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I was selected as one of the RSS Pioneers 2024!
+title: I am selected as one of the RSS Pioneers 2024!
 date: 2024-05-03 15:59:00-0400
 inline: false
 related_posts: false

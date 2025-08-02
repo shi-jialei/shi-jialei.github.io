@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I served as Web/Social Media Chairs for [RSS Pioneer 2025](https://sites.google.com/view/rsspioneers2025/home)!
+I serve as Web/Social Media Chairs for [RSS Pioneer 2025](https://sites.google.com/view/rsspioneers2025/home)!
