@@ -283,7 +283,9 @@ scholar:
 
   replace_strings: true
   join_strings: true
-
+  strings:
+    "Shi, Jialei": '<span class="author-highlight">Shi, Jialei</span>'
+    
   details_dir: bibliography
   details_link: Details
 
