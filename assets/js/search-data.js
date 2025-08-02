@@ -391,13 +391,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-was-selected-as-one-of-the-rss-pioneers-2024",
-          title: 'I was selected as one of the RSS Pioneers 2024!',
+            },},{id: "news-i-am-selected-as-one-of-the-rss-pioneers-2024",
+          title: 'I am selected as one of the RSS Pioneers 2024!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-i-served-as-web-social-media-chairs-for-rss-pioneer-2025",
-          title: 'I served as Web/Social Media Chairs for RSS Pioneer 2025!',
+            },},{id: "news-i-serve-as-web-social-media-chairs-for-rss-pioneer-2025",
+          title: 'I serve as Web/Social Media Chairs for RSS Pioneer 2025!',
           description: "",
           section: "News",},{id: "news-my-thesis-is-awarded-as-runner-up-for-the-2025-ucl-mechanical-engineering-outstanding-phd-thesis",
           title: 'My Thesis is awarded as runner-up for the 2025 UCL Mechanical Engineering Outstanding...',
