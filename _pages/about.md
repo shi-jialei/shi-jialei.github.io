@@ -5,7 +5,7 @@ permalink: /
 subtitle: Research Associate at <a href='https://www.imperial.ac.uk/hamlyn-centre/'> Hamlyn Centre for Robotic Surgery, Imperial College London </a>. 
 
 profile:
-  align: right
+  align: center
   image: jialei_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -22,13 +22,14 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoc researcher
+My research sits at the intersection of soft robotics, mechatronic system design and integration, and the development of fundamental models to better understand their behaviour — with a strong emphasis on healthcare applications such as minimally invasive surgery and haptic feedback systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I bring extensive hands-on experience in the design, modelling, and control of soft robotic systems, grounded in a solid foundation across mechanical and electronic engineering. My work has been recognized internationally, including selection as an RSS Pioneer (2024), receipt of the IEEE RA-L Outstanding Reviewer Award (2025). I (co)-authored multiple publications in leading robotics journals such as IEEE Transactions on Robotics (T-RO), The International Journal of Robotics Research (IJRR), and IEEE/ASME Transactions on Mechatronics (T-Mech).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I aim to bridge engineering innovation with translational clinical impact by developing cutting-edge and intelligent robotic platforms for next-generation medical technologies.
+
