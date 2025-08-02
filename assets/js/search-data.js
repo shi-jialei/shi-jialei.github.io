@@ -391,18 +391,25 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-was-selected-as-one-of-the-rss-pioneers-2024",
+          title: 'I was selected as one of the RSS Pioneers 2024!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_1/";
             },},{id: "news-my-thesis-is-awarded-as-runner-up-for-the-2025-ucl-mechanical-engineering-outstanding-phd-thesis",
           title: 'My Thesis is awarded as runner-up for the 2025 UCL Mechanical Engineering Outstanding...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-my-paper-on-soft-growing-robot-is-accepted-by-the-t-ro",
+          title: 'My paper on soft growing robot is accepted by the T-RO!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-announcement-2",
+          title: 'Announcement_2',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
