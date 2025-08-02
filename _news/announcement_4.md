@@ -2,7 +2,7 @@
 layout: post
 title: My paper on soft growing robot is accepted by the T-RO!
 date: 2025-07-12 16:11:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
