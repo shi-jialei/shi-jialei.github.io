@@ -399,6 +399,9 @@ ninja.data = [{
             },},{id: "news-i-serve-as-web-social-media-chairs-for-rss-pioneer-2025",
           title: 'I serve as Web/Social Media Chairs for RSS Pioneer 2025!',
           description: "",
+          section: "News",},{id: "news-i-receive-ieee-ra-l-outstanding-reviewer-award-2025",
+          title: 'I receive IEEE RA-L Outstanding Reviewer Award (2025)!',
+          description: "",
           section: "News",},{id: "news-my-thesis-is-awarded-as-runner-up-for-the-2025-ucl-mechanical-engineering-outstanding-phd-thesis",
           title: 'My Thesis is awarded as runner-up for the 2025 UCL Mechanical Engineering Outstanding...',
           description: "",
@@ -406,7 +409,7 @@ ninja.data = [{
           title: 'My paper on soft growing robot is accepted by the T-RO!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
+              window.location.href = "/news/announcement_5/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
