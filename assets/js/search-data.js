@@ -391,19 +391,23 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-rss-pioneers-is-an-intensive-workshop-for-senior-ph-d-students-and-early-career-researchers-in-the-robotics-community-held-in-conjunction-with-the-main-robotics-science-and-systems-rss-conference-each-year-the-rss-pioneers-brings-together-a-cohort-of-the-world-s-top-early-career-researchers-the-workshop-aims-to-provide-these-promising-researchers-with-networking-opportunities-and-help-to-navigate-their-next-career-stages-and-foster-creativity-and-collaboration-surrounding-challenges-in-all-areas-of-robotics-in-2024-30-pioneers-are-selected-worldwide-and-the-acceptance-rate-is-15",
-          title: 'RSS Pioneers is an intensive workshop for senior Ph.D. students and early career...',
+            },},{id: "news-i-was-selected-as-one-of-the-rss-pioneers-2024",
+          title: 'I was selected as one of the RSS Pioneers 2024!',
           description: "",
-          section: "News",},{id: "news-i-served-as-web-social-media-chairs-for-rss-pioneer-2025",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-i-served-as-web-social-media-chairs-for-rss-pioneer-2025",
           title: 'I served as Web/Social Media Chairs for RSS Pioneer 2025!',
           description: "",
           section: "News",},{id: "news-my-thesis-is-awarded-as-runner-up-for-the-2025-ucl-mechanical-engineering-outstanding-phd-thesis",
           title: 'My Thesis is awarded as runner-up for the 2025 UCL Mechanical Engineering Outstanding...',
           description: "",
-          section: "News",},{id: "news-colonoscopy-is-a-medical-procedure-used-to-examine-the-inside-of-the-colon-for-abnormalities-such-as-polyps-or-cancer-traditionally-this-is-done-by-manually-inserting-a-long-flexible-tube-called-a-colonoscope-into-the-colon-however-this-method-can-cause-pain-discomfort-and-even-the-risk-of-perforation-to-address-these-shortcomings-advancements-in-technology-are-needed-to-develop-safer-more-intelligent-colonoscopes-this-paper-presents-the-design-control-and-evaluation-of-a-self-growing-soft-robotic-colonoscope-leveraging-the-evertion-principle-the-device-features-a-tube-with-an-18-mm-diameter-constructed-from-stretchable-fabric-which-grows-1-6-m-at-the-tip-under-pressurization-a-pneumatically-driven-elastomer-based-manipulator-enables-omni-directional-steering-over-180-degrees-at-the-tip-the-robot-operates-in-two-modes-teleoperation-via-joysticks-and-autonomous-navigation-using-sensor-inputs-such-as-a-tip-mounted-camera-thorough-in-vitro-experiments-are-conducted-to-assess-the-system-s-functionality-and-performance-results-illustrate-that-the-robot-can-achieve-locomotion-in-confined-spaces-such-as-a-colon-phantom-while-exerting-contact-forces-averaging-less-than-0-3-n-the-soft-robot-shows-potential-for-improving-the-safety-and-autonomy-of-colonoscopies-while-reducing-discomfort-to-patients-this-work-is-funded-by-the-5-million-epsrc-project-ep-x033546-1-led-by-prof-ferdinando-rodriguez-y-baena-this-paper-is-a-collaboration-with-phd-student-korn-borvorntanajanya-working-on-the-autonomous-nagivation-and-with-dr-kaiwen-chen-working-on-the-steerring-control-and-closed-loop-trajectory-following-and-with-dr-enrico-franco",
-          title: 'Colonoscopy is a medical procedure used to examine the inside of the colon...',
+          section: "News",},{id: "news-my-paper-on-soft-growing-robot-is-accepted-by-the-t-ro",
+          title: 'My paper on soft growing robot is accepted by the T-RO!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
