@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received [IEEE RA-L Outstanding Reviewer Award (2025)](https://www.ieee-ras.org/images/awards/RAS_2025_ICRA_Brochure.pdf)!
+I receive [IEEE RA-L Outstanding Reviewer Award (2025)](https://www.ieee-ras.org/images/awards/RAS_2025_ICRA_Brochure.pdf)!
