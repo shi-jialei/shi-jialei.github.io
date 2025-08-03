@@ -13,5 +13,5 @@ Read the [Research Statement](/assets/pdf/Shi_RSS_2024.pdf):
 
 And check out the [Video Presentation](https://www.youtube.com/watch?v=JcxQPgVZf9I):
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=JcxQPgVZf9I" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/JcxQPgVZf9I" allowfullscreen></iframe>
 </div>
