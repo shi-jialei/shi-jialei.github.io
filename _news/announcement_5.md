@@ -8,6 +8,12 @@ related_posts: false
 
 Colonoscopy is a medical procedure used to examine the inside of the colon for abnormalities, such as polyps or cancer. Traditionally, this is done by manually inserting a long, flexible tube called a colonoscope into the colon. However, this method can cause pain, discomfort, and even the risk of perforation. To address these shortcomings, advancements in technology are needed to develop safer, more intelligent colonoscopes. This paper presents the design, control and evaluation of a self-growing soft robotic colonoscope, leveraging the evertion principle. The device features a tube with an 18 mm diameter, constructed from stretchable fabric, which grows 1.6 m at the tip under pressurization. A pneumatically driven, elastomer-based manipulator enables omni-directional steering over 180 degrees at the tip. The robot operates in two modes: teleoperation via joysticks and autonomous navigation using sensor inputs, such as a tip-mounted camera. Thorough in-vitro experiments are conducted to assess the system's functionality and performance. Results illustrate that the robot can achieve locomotion in confined spaces such as a colon phantom, while exerting contact forces averaging less than 0.3 N. The soft robot shows potential for improving the safety and autonomy of colonoscopies, while reducing discomfort to patients.
 
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/TRO_system.png" alt="Overview of the soft everting robot" data-zoomable>
+  </div>
+</div>
+
 This work is funded by the 5-million [EPSRC Project EP/X033546/1](https://gtr.ukri.org/projects?ref=EP%2FX033546%2F1) led by [Prof. Ferdinando Rodriguez Y Baena](https://profiles.imperial.ac.uk/f.rodriguez) and [Multi-scale Medical Robotics Center, The Chinese University of Hong Kong](https://www.mrc-cuhk.com/). This paper is a collaboration with PhD student [Korn Borvorntanajanya](https://scholar.google.com/citations?user=ljKquOcAAAAJ&hl=en) working on the autonomous nagivation and with [Dr. Kaiwen Chen](https://profiles.imperial.ac.uk/kaiwen.chen16) working on the steerring control and closed-loop trajectory following, and with [Dr. Enrico Franco](https://profiles.imperial.ac.uk/e.franco11). 
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
