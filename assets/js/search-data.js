@@ -498,6 +498,13 @@ ninja.data = [{
           window.open("https://twitter.com/Jialei_Shi", "_blank");
         },
       },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@jialeishi6619", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
