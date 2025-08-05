@@ -396,6 +396,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-our-portable-haptic-device-is-featured-in-mainstream-media",
+          title: 'Our portable haptic device is featured in mainstream media!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
             },},{id: "news-i-serve-as-web-social-media-chairs-for-rss-pioneer-2025",
           title: 'I serve as Web/Social Media Chairs for RSS Pioneer 2025!',
           description: "",
