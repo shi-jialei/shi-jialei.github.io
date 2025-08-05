@@ -396,8 +396,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-our-portable-haptic-device-is-featured-in-mainstream-media",
-          title: 'Our portable haptic device is featured in mainstream media!',
+            },},{id: "news-our-portable-haptic-device-is-in-british-science-festival-2024-and-featured-in-mainstream-media",
+          title: 'Our portable haptic device is in British Science Festival 2024 and featured in...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
