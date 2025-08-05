@@ -16,7 +16,7 @@ Colonoscopy is a medical procedure used to examine the inside of the colon for a
 
 This work is funded by the 5-million [EPSRC Project EP/X033546/1](https://gtr.ukri.org/projects?ref=EP%2FX033546%2F1) led by [Prof. Ferdinando Rodriguez Y Baena](https://profiles.imperial.ac.uk/f.rodriguez) and [Multi-scale Medical Robotics Center, The Chinese University of Hong Kong](https://www.mrc-cuhk.com/). This paper is a collaboration with PhD student [Korn Borvorntanajanya](https://scholar.google.com/citations?user=ljKquOcAAAAJ&hl=en) working on the autonomous nagivation and with [Dr. Kaiwen Chen](https://profiles.imperial.ac.uk/kaiwen.chen16) working on the steerring control and closed-loop trajectory following, and with [Dr. Enrico Franco](https://profiles.imperial.ac.uk/e.franco11). 
 
-And check out the [Video Presentation](https://www.youtube.com/watch?v=KA3DegGUyeA&t=14s):
+And check out the [Supplementary Video](https://www.youtube.com/watch?v=KA3DegGUyeA&t=14s):
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/KA3DegGUyeA&t=14s" allowfullscreen></iframe>
 </div>
