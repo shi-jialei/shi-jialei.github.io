@@ -18,7 +18,7 @@ This work is funded by the 5-million [EPSRC Project EP/X033546/1](https://gtr.uk
 
 And check out the [Supplementary Video](https://www.youtube.com/watch?v=KA3DegGUyeA&t=14s):
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/KA3DegGUyeA&t=14s" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/KA3DegGUyeA&t" allowfullscreen></iframe>
 </div>
 
 
