@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our portable haptic device is featured in mainstream media!
+title: Our portable haptic device is in British Science Festival 2024 and featured in mainstream media!
 date: 2024-09-12 15:59:00-0400
 inline: false
 related_posts: false
