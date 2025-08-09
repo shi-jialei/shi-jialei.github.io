@@ -28,17 +28,21 @@ The miniaturisation of soft robots with reinforced chambers and free working wor
   <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/yPKFU3UapxQ" allowfullscreen></iframe>
 </div>
 
+
     ---
     Robot Modelling
     ---
+
     
 Configuration-dependent compliance modelling and analysis:
 Read the [IJRR paper](/assets/pdf/Shi_IJRR_2024.pdf):
 <iframe src="/assets/pdf/Shi_IJRR_2024.pdf" width="100%" height="600px"></iframe>
 
+
     ---
     Robot Control 
     ---
+
     
 Inverse kinematics control based on the Cosserat rod model, details are reported in the [T-Mech Paper](/assets/pdf/Shi_T-Mech_2024.pdf).
 <div class="embed-responsive embed-responsive-16by9">
