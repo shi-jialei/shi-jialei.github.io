@@ -63,6 +63,3 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-
-## References
-{% bibliography --cited %}
