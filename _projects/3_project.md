@@ -5,5 +5,4 @@ description: Undergraduate and master projects on vehicle mechatronics, having f
 img: assets/img/selfie.jpg
 importance: 4
 category: fun
-giscus_comments: true
 ---
