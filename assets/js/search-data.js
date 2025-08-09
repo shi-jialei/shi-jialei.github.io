@@ -420,9 +420,9 @@ ninja.data = [{
           description: "Design, modelling and control of soft continuum robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-growing-robot",
-          title: 'Growing Robot',
-          description: "Design and application of tip-growing robot",
+            },},{id: "projects-medical-robots",
+          title: 'Medical Robots',
+          description: "Design and application of soft robots for medical applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
