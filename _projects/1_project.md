@@ -12,6 +12,7 @@ related_publications: true
     ---
     Robot Design and Fabrication
     ---
+[@10522046]
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
