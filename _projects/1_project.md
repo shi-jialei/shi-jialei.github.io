@@ -24,7 +24,7 @@ The miniaturisation of soft robots with reinforced chambers and free working wor
     Fabrication process for miniaturised soft robots with reinforced chambers, details are in the [RoboSoft paper](/assets/pdf/SHI_ROS_2024.pdf). 
 </div>
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/Ngrbg2_GYGk" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/yPKFU3UapxQ" allowfullscreen></iframe>
 </div>
 
     ---
