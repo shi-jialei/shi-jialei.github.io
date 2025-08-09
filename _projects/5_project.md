@@ -4,7 +4,7 @@ title: Robot Interactions and Haptics
 description: Active regulation and perception of robot-environment interaction and haptics
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
