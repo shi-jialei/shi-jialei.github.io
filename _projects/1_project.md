@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soft Continuum Robots
-description: Design, modelling and control of soft continuum robots
+description: Design, fundamental modelling and control of soft continuum robots
 img: assets/img/soft-robot-cover.jpg
 importance: 1
 category: work
