@@ -425,6 +425,11 @@ ninja.data = [{
           description: "Design and application of soft robots for medical applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-formula-student",
+          title: 'Formula Student',
+          description: "Design and application of soft robots for medical applications",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-robot-interactions-and-haptics",
           title: 'Robot Interactions and Haptics',
           description: "Active regulation and perception of robot-environment interaction and haptics",
