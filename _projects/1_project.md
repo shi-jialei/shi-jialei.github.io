@@ -13,7 +13,7 @@ related_publications: true
     Robot Design, Fabrication and Characterisation
     ---
 
-The miniaturisation of soft robots with reinforced chambers and free working working channels is challenging. The following fabrication process allows miniaturised soft manipulators on the sub-centimetre scale (i.e., less than 10 mm).  
+The miniaturisation of soft robots with reinforced chambers and free working working channels is challenging. The following fabrication process allows miniaturised soft manipulators on the sub-centimetre scale (i.e., less than 10 mm). Details are in the [RoboSoft paper](/assets/pdf/SHI_ROS_2024.pdf)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,8 +21,9 @@ The miniaturisation of soft robots with reinforced chambers and free working wor
     </div>
 </div>
 <div class="caption">
-    Fabrication process for miniaturised soft robots with reinforced chambers, details are in the [RoboSoft paper](/assets/pdf/SHI_ROS_2024.pdf). 
+    Fabrication process for miniaturised soft robots with reinforced chambers
 </div>
+
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/yPKFU3UapxQ" allowfullscreen></iframe>
 </div>
@@ -39,7 +40,7 @@ Read the [IJRR paper](/assets/pdf/Shi_IJRR_2024.pdf):
     Robot Control 
     ---
     
-Inverse kinematics control based on the Cosserat rod model: 
+Inverse kinematics control based on the Cosserat rod model, details are reported in the [T-Mech Paper](/assets/pdf/Shi_T-Mech_2024.pdf).
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/Ngrbg2_GYGk" allowfullscreen></iframe>
 </div>
