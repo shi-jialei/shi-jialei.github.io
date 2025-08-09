@@ -12,7 +12,6 @@ related_publications: true
     ---
     Robot Design, Fabrication and Characterisation
     ---
-[@10522046]
 
 The miniaturisation of soft robots with reinforced chambers and free working working channels is challenging. 
 
