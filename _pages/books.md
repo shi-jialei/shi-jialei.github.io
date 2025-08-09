@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: page
 title: talks/media
 permalink: /books/
 nav: true
