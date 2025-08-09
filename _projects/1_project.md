@@ -5,6 +5,7 @@ description: Design, fundamental modelling and control of soft continuum robots
 img: assets/img/soft-robot-cover.jpg
 importance: 1
 category: work
+project: soft-continuum-robot
 related_publications: true
 ---
 
