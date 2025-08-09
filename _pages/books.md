@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: Talks and Presentations
+title: Talks/Media
 permalink: /books/
 nav: true
 collection: books
