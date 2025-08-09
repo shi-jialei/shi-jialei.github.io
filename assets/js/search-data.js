@@ -425,9 +425,9 @@ ninja.data = [{
           description: "Design and application of soft robots for medical applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-formula-student",
-          title: 'Formula Student',
-          description: "Design and application of soft robots for medical applications",
+            },},{id: "projects-vehicle-mechatronics-and-formula-student",
+          title: 'Vehicle Mechatronics and Formula Student',
+          description: "Undergraduate and master projects on vehicle mechatronics, having fun of building racing cars!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-robot-interactions-and-haptics",
