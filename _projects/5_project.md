@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Environment-Robot Interactions and Haptics
+title: Robot Interactions and Haptics
 description: Active regulation and perception of robot-environment interaction and haptics
 img: assets/img/1.jpg
 importance: 3
