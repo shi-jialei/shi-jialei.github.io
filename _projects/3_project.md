@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Formula Student
-description: Design and application of soft robots for medical applications
+title: Vehicle Mechatronics and Formula Student
+description: Undergraduate and master projects on vehicle mechatronics, having fun of building racing cars!
 img: assets/img/selfie.jpg
 importance: 4
 category: fun
