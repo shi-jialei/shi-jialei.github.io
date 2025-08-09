@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-talks-media",
-          title: "Talks/Media",
+          title: "talks/media",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -29,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-teaching-supervision",
+          title: "teaching/supervision",
+          description: "teaching ans supervision experiences",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
