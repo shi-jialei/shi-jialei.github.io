@@ -2,7 +2,7 @@
 layout: page
 title: Medical Robots
 description: Design and application of soft robots for medical applications
-img: assets/img/3.jpg
+img: assets/img/medical-robot.png
 importance: 2
 category: work
 giscus_comments: true
