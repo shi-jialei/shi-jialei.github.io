@@ -270,9 +270,9 @@ scholar:
   last_name: [Shi]
   first_name: [Jialei]
 
-  style: apa
+  style: assets/bibliography/ieee.csl
   locale: en
-
+   
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
