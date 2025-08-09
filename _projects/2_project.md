@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Growing Robot
-description: Design and application of tip-growing robot
+title: Medical Robots
+description: Design and application of soft robots for medical applications
 img: assets/img/3.jpg
 importance: 2
 category: work
