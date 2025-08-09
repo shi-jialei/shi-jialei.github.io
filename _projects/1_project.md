@@ -10,7 +10,7 @@ related_publications: true
 ---
 
     ---
-    Robot Design and Fabrication
+    Robot Design, Fabrication and Characterisation
     ---
 [@10522046]
 
