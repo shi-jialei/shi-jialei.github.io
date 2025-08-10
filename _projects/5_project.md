@@ -34,3 +34,9 @@ A [haptic fingertip device](https://www.nature.com/articles/s41467-024-51779-8) 
 
 The device is featured in mainstream media, including [Financial Times](https://www.ft.com/content/514f4021-7d35-46cf-a22c-2de1c68caafc), the [Standard](https://www.standard.co.uk/news/uk/ucl-university-college-london-b1181550.html), and [the Independent](https://www.independent.co.uk/tech/robot-touch-hand-skin-ucl-b2611450.html). Read the [whole story](https://www.linkedin.com/posts/dr-sara-adela-abad-g-84a81680_research-bioinspired-adaptable-activity-7239900906002022400-SnH0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh93ckBTus7XwvxwXCTwktfN2mLY6GLl18).
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/finger-tip.jpeg" title="control image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
