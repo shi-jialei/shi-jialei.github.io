@@ -10,7 +10,7 @@ nav_order: 4
 
 > **Oral presentation**: Understanding compliance properties of soft continuum robots: from analytical model to model-based control, *Robotics: Science and Systems (RSS) Pioneers*, June, 2024.
 
-> **Invited talk**: Characterisation and control platform for pneumatically driven soft robots, *ICRA Tutorial on towards an accessible soft robotics toolbox and validation test rig*, June, 2023 [(link)(https://helge-wurdemann.com/icra-2023-tutorial-towards-an-accessible-soft-robotics-toolbox-and-validation-test-rig/)].
+> **Invited talk**: Characterisation and control platform for pneumatically driven soft robots, *ICRA Tutorial on towards an accessible soft robotics toolbox and validation test rig*, June, 2023 [(link)](https://helge-wurdemann.com/icra-2023-tutorial-towards-an-accessible-soft-robotics-toolbox-and-validation-test-rig/)].
 
 > **Oral presentation**: Characterisation and control platform for pneumatically driven soft robots: Design and applications. *IEEE RoboSoft*, April, 2023.
 
