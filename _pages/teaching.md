@@ -16,4 +16,4 @@ nav_order: 5
 
 > **Yi Lu**, Modelling and understanding of the localised tip steering of soft everting robots, MSc student, 2025.
 > 
-> **Hanyu Jin**, [Development of soft robotics toolboxes](/assets/pdf/Shi_RSS_2024.pdf), Undergraduate Intern, 2023 (now PhD student at Carnegie Mellon University).
+> **Hanyu Jin**, [Development of soft robotics toolboxes](/assets/pdf/Shi_ROS_2023.pdf), Undergraduate Intern, 2023 (now PhD student at Carnegie Mellon University).
