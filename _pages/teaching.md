@@ -12,7 +12,7 @@ nav_order: 5
 
 > **MECH0089: Control and Robotics**, Postgraduate Teaching Assistants at UCL (Teaching materials, tutorials, marking) - Masters.
 
-# Supervision
+# (Co-)Supervision
 
 > **Yi Lu**, Modelling and understanding of the localised tip steering of soft everting robots, MSc student, 2025.
 
