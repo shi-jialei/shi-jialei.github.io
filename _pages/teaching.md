@@ -14,8 +14,10 @@ nav_order: 5
 
 # (Co-)Supervision
 
-> **Yi Lu**, Modelling and understanding of the localised tip steering of soft everting robots, MSc student, 2025.
+> **Danni Zhou**, Compliance regulation of soft continuum robots, MSc student (Imperial), 2025. 
+> 
+> **Yi Lu**, Modelling and understanding of the localised tip steering of soft everting robots, MSc student (Imperial), 2025.
 
-> **Xingyu Chen**, [Vision-based tip force estimation on a soft continuum robot](/assets/pdf/Chen_ICRA_2024.pdf), MSc student, 2023.
+> **Xingyu Chen**, [Vision-based tip force estimation on a soft continuum robot](/assets/pdf/Chen_ICRA_2024.pdf), MSc student (UCL), 2023.
 
-> **Hanyu Jin**, [Development of soft robotics toolboxes](/assets/pdf/Shi_ROS_2023.pdf), Undergraduate Intern, 2023 (now PhD student at Carnegie Mellon University).
+> **Hanyu Jin**, [Development of soft robotics toolboxes](/assets/pdf/Shi_ROS_2023.pdf), Undergraduate Intern (UCL), 2023 (now PhD student at Carnegie Mellon University).
