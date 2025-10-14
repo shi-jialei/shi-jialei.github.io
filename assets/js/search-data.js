@@ -429,8 +429,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "news-my-second-t-ro-paper-on-soft-continuum-robot-is-accepted",
-          title: 'My second T-RO paper on soft continuum robot is accepted!',
+            },},{id: "news-two-first-authored-tro-papers-in-the-same-year-my-second-t-ro-paper-on-soft-continuum-robot-is-accepted",
+          title: 'Two first-authored TRO papers in the same year! My second T-RO paper on...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
