@@ -429,6 +429,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-my-second-t-ro-paper-on-soft-continuum-robot-is-accepted",
+          title: 'My second T-RO paper on soft continuum robot is accepted!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
             },},{id: "projects-soft-continuum-robots",
           title: 'Soft Continuum Robots',
           description: "Design, fundamental modelling and control of soft continuum robots",
