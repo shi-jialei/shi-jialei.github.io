@@ -10,7 +10,7 @@ To enable informed decision-making on design specifications for the development 
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    <img class="img-fluid rounded z-depth-1" src="/assets/img/TRO2_2025_Fig1" alt="Overview of the modelling and evaluation framework for soft robots with reinforced chambers" data-zoomable>
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/TRO2_2025_Fig1.png" alt="Overview of the modelling and evaluation framework for soft robots with reinforced chambers" data-zoomable>
   </div>
 </div>
 
