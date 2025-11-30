@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Work on model-based force control of soft continumm robots is accepted by Journal of Soft Robotics (SoRo)!
