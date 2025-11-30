@@ -434,6 +434,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
+            },},{id: "news-work-on-model-based-force-control-of-soft-continumm-robots-is-accepted-by-journal-of-soft-robotics-soro",
+          title: 'Work on model-based force control of soft continumm robots is accepted by Journal...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8/";
             },},{id: "projects-soft-continuum-robots",
           title: 'Soft Continuum Robots',
           description: "Design, fundamental modelling and control of soft continuum robots",
