@@ -15,7 +15,7 @@ This work advances the model-based, (quasi-)static force control techniques for 
 </div>
 
 
-And check out the [Supplementary Video](https://https://www.youtube.com/watch?v=-TFpsLYlU_c):
+And check out the [Supplementary Video](https://www.youtube.com/watch?v=-TFpsLYlU_c&t=2s):
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/-TFpsLYlU_c" allowfullscreen></iframe>
 </div>
