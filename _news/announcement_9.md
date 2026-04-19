@@ -10,6 +10,12 @@ Locomotion in confined spaces appears one of the most relevant domains for soft 
 
 We further miniaturised the soft-everting robot reported in the [IEEE T-RO](https://ieeexplore.ieee.org/abstract/document/11112617). Notably, only our robot successfully passes the sandpit section!
 
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/Award_2026 IEEE RoboSoft.jpg" alt="Overview of the soft everting robot" data-zoomable>
+  </div>
+</div>
+
 And check out our competition video as follows:
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/ofbfVxzwTp0" allowfullscreen></iframe>
