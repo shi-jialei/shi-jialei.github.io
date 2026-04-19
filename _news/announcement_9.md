@@ -8,7 +8,7 @@ related_posts: false
 
 Locomotion in confined spaces appears one of the most relevant domains for soft robots, that can exploit compliance, delicateness, and locomotion dexterity. This competition aims to showcase the capabilities of the robot replicating motion within a pipeline, in a rubble area, inside the human body, and in soil. The robot is competing to reach the end of the tunnel and exit as soon as possible.
 
-We further miniaturised the soft-everting robot reported in the [IEEE T-RO](https://ieeexplore.ieee.org/abstract/document/11112617). Notably, only our robot successfully passes the sandpit section!
+We further miniaturised the soft-everting robot reported in the [IEEE T-RO](https://ieeexplore.ieee.org/abstract/document/11112617). Notably, our robot travels the fartest distance, and only our robot successfully passes the sandpit section!
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
