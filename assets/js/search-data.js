@@ -439,6 +439,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
+            },},{id: "news-we-won-second-prize-in-2026-ieee-robosoft-in-pipe-locomotion-competition",
+          title: 'We won Second Prize in 2026 IEEE RoboSoft In-Pipe Locomotion Competition!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9/";
             },},{id: "projects-soft-continuum-robots",
           title: 'Soft Continuum Robots',
           description: "Design, fundamental modelling and control of soft continuum robots",
