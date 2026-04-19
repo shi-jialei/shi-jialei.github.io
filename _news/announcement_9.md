@@ -16,7 +16,7 @@ We further miniaturised the soft-everting robot reported in the [IEEE T-RO](http
   </div>
 </div>
 
-And check out our competition video as follows:
+Congrats on all [winners and finalists](https://www.robosoft2026.org/program/awards/) in IEEE RoboSoft 2026! And check out our competition video as follows:
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/ofbfVxzwTp0" allowfullscreen></iframe>
 </div>
