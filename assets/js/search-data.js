@@ -444,6 +444,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
+            },},{id: "news-we-won-2025-ieee-transactions-on-robotics-king-sun-fu-memorial-best-paper-award-honorable-mention",
+          title: 'We won 2025 IEEE Transactions on Robotics King-Sun Fu Memorial Best Paper Award...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
             },},{id: "projects-soft-continuum-robots",
           title: 'Soft Continuum Robots',
           description: "Design, fundamental modelling and control of soft continuum robots",
