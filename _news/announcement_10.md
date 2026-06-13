@@ -12,7 +12,7 @@ Details of our soft-everting robot are reported in the [IEEE T-RO](https://ieeex
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    <img class="img-fluid rounded z-depth-1" src="/assets/img/Award_2026 IEEE RoboSoft.jpg" alt="Award Ceremony at ICRA 2026" data-zoomable>
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/TRO_Award.jpg" alt="Award Ceremony at ICRA 2026" data-zoomable>
   </div>
 </div>
 
