@@ -449,6 +449,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
+            },},{id: "news-papers-for-my-two-supervised-master-students-in-2025-are-all-accepted",
+          title: 'Papers for my two supervised Master students in 2025 are all accepted!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_11/";
             },},{id: "projects-soft-continuum-robots",
           title: 'Soft Continuum Robots',
           description: "Design, fundamental modelling and control of soft continuum robots",
