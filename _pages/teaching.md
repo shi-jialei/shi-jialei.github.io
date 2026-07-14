@@ -18,11 +18,11 @@ nav_order: 5
 
 
 
-# (Co-)Supervision
+# (Co-)Supervision/Mentoring
 
-> **Danni Zhou**, Compliance regulation of soft continuum robots, MSc student (Imperial), 2025. 
+> **Danni Zhou**, Compliance regulation of soft continuum robots, MSc student (Scores: 70+), 2025. ([Thesis](/assets/pdf/Danni_zhou_AME_2025.pdf)) 
 
-> **Yi Lu**, [Modelling and understanding of the localised tip steering of soft everting robots](/assets/pdf/Lu_Project_Final_Report_2025.pdf), MSc student (Imperial), 2025.
+> **Yi Lu**, Modelling and understanding of the localised tip steering of soft everting robots, MSc student (Scores: 70+), 2025. ([Thesis](/assets/pdf/Lu_Project_Final_Report_2025.pdf))
 
 > **Xingyu Chen**, [Vision-based tip force estimation on a soft continuum robot](/assets/pdf/Chen_ICRA_2024.pdf), MSc student (UCL), 2023.
 
