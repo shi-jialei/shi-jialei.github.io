@@ -8,10 +8,14 @@ related_posts: false
 Last year, I proposed two Master projects and (co)-supervised two MechEng students with Ferdinando Rodriguez Y Baena. Work from two students is successfully accepted by [IEEE RoboSoft 2026](https://shi-jialei.github.io/assets/pdf/Lu_RoboSoft_2026.pdf) and [IEEE/ASME Transactions on Mechatronics](https://shi-jialei.github.io/assets/pdf/Zhou_TMech_2026.pdf)!  
 
 
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    <img class="img-fluid rounded z-depth-1" src="/assets/img/TRO_Award.jpg" alt="Award Ceremony at ICRA 2026" data-zoomable>
-  </div>
+[1] Y. Lu, K. Borvorntanajanya, J. Shi and F. R. y. Baena, "Finite element analysis and experimental characterisation of a localised steerable tip for soft everting robots," 2026 IEEE 9th International Conference on Soft Robotics (RoboSoft), Kanazawa, Japan, 2026, pp. 851-858.
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/iOySVLSlTZo" allowfullscreen></iframe>
+</div>
+
+[2] D. Zhou and J. Shi, "Hybrid position–compliance control for selective stiffening and softening in soft continuum robots," IEEE/ASME Transactions on Mechatronics, 2026. 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/jIMxLOcQLWo" allowfullscreen></iframe>
 </div>
 
 Congratulations!
