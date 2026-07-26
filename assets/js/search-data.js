@@ -483,7 +483,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-design-benchmarking-and-tools-for-soft-robotics",
           title: 'Design, Benchmarking and Tools for Soft Robotics',
-          description: "Developing experimental platforms, fabrication methodologies, modelling frameworks and software tools for systematic soft robot development and evaluation.",
+          description: "Developing experimental platforms, fabrication methods, modelling frameworks and software tools for soft robot development and evaluation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-physical-human-robot-interaction-and-haptics",
