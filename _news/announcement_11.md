@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Papers for my two supervised Master students in 2025 are all accepted!
+title: Papers from my two supervised Master students in 2025 are all accepted!
 date: 2026-7-7 16:11:00-0400
 inline: false
 related_posts: false
