@@ -1,127 +1,259 @@
 ---
 layout: default
 ---
-{% unless site.data.resume %}
-  <div class="post">
-    <header class="post-header">
-      <h1 class="post-title">
-        {{ page.title }}
-        {% if page.cv_pdf %}
-          <a
-            {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
-            {% else %}
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-            {% endif %}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="float-right"
-          >
-            <i class="fa-solid fa-file-pdf"></i>
-          </a>
-        {% endif %}
-      </h1>
-      {% if page.description %}
-        <p class="post-description">{{ page.description }}</p>
-      {% endif %}
-    </header>
 
-    <article>
-      <div class="cv">
-        {% for entry in site.data.cv %}
-          <a class="anchor" id="{{ entry.title }}"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-            <div>
-              {% if entry.type == 'list' %}
-                {% include cv/list.liquid %}
-              {% elsif entry.type == 'map' %}
-                {% include cv/map.liquid %}
-              {% elsif entry.type == 'nested_list' %}
-                {% include cv/nested_list.liquid %}
-              {% elsif entry.type == 'time_table' %}
-                {% include cv/time_table.liquid %}
-              {% elsif entry.type == 'list_groups' %}
-                {% include cv/list_groups.liquid %}
-              {% else %}
-                {{ entry.contents }}
-              {% endif %}
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-    </article>
-  </div>
-{% else %}
-  <div class="post">
-    <header class="post-header">
-      <h1 class="post-title">
-        {{ page.title }}
-        {% if page.cv_pdf %}
-          <a
-            {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
-            {% else %}
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-            {% endif %}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="float-right"
-          >
-            <i class="fa-solid fa-file-pdf"></i>
-          </a>
-        {% endif %}
-      </h1>
-      {% if page.description %}
-        <p class="post-description">{{ page.description }}</p>
-      {% endif %}
-    </header>
+{% assign cv = site.data.cv.cv %}
 
-    <article>
-      <div class="cv">
-        {% for data in site.data.resume %}
-          {% if site.jsonresume and site.jsonresume.size > 0 %}
-            {% unless site.jsonresume contains data[0] %}
-              {% continue %}
-            {% endunless %}
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      {% if cv.name %}
+        {{ cv.name }}
+      {% else %}
+        {{ page.title }}
+      {% endif %}
+
+      {% if page.cv_pdf %}
+        <a
+          {% if page.cv_pdf contains '://' %}
+            href="{{ page.cv_pdf }}"
+          {% else %}
+            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
           {% endif %}
-          {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
-          <a class="anchor" id="{{ data[0] }}"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-            <div>
-              {% case data[0] %}
-                {% when 'basics' %}
-                  {% include resume/basics.liquid %}
-                {% when 'education' %}
-                  {% include resume/education.liquid %}
-                {% when 'work' %}
-                  {% include resume/work.liquid %}
-                {% when 'volunteer' %}
-                  {% include resume/volunteer.liquid %}
-                {% when 'projects' %}
-                  {% include resume/projects.liquid %}
-                {% when 'awards' %}
-                  {% include resume/awards.liquid %}
-                {% when 'skills' %}
-                  {% include resume/skills.liquid %}
-                {% when 'publications' %}
-                  {% include resume/publications.liquid %}
-                {% when 'languages' %}
-                  {% include resume/languages.liquid %}
-                {% when 'interests' %}
-                  {% include resume/interests.liquid %}
-                {% when 'certificates' %}
-                  {% include resume/certificates.liquid %}
-                {% when 'references' %}
-                  {% include resume/references.liquid %}
-                {% else %}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="float-right"
+          aria-label="Download CV as PDF"
+        >
+          <i class="fa-solid fa-file-pdf"></i>
+        </a>
+      {% endif %}
+    </h1>
 
-              {% endcase %}
-            </div>
-          </div>
+    {% if cv.label %}
+      <p class="post-description">{{ cv.label }}</p>
+    {% elsif page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+
+    {% if cv.email or cv.location %}
+      <p>
+        {% if cv.email %}
+          <a href="mailto:{{ cv.email }}">{{ cv.email }}</a>
+        {% endif %}
+
+        {% if cv.email and cv.location %}
+          &nbsp;·&nbsp;
+        {% endif %}
+
+        {% if cv.location %}
+          {{ cv.location }}
+        {% endif %}
+      </p>
+    {% endif %}
+
+    {% if cv.summary %}
+      <p>{{ cv.summary }}</p>
+    {% endif %}
+
+    {% if cv.social_networks %}
+      <p>
+        {% for social in cv.social_networks %}
+          {% unless social.username contains 'YOUR_' %}
+            {% assign network = social.network | downcase %}
+
+            {% if network == 'linkedin' %}
+              <a
+                href="https://www.linkedin.com/in/{{ social.username }}"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LinkedIn
+              </a>
+            {% elsif network == 'github' %}
+              <a
+                href="https://github.com/{{ social.username }}"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                GitHub
+              </a>
+            {% else %}
+              {{ social.network }}: {{ social.username }}
+            {% endif %}
+
+            {% unless forloop.last %}
+              &nbsp;·&nbsp;
+            {% endunless %}
+          {% endunless %}
         {% endfor %}
-      </div>
-    </article>
-  </div>
-{% endunless %}
+      </p>
+    {% endif %}
+  </header>
+
+  <article>
+    <div class="cv">
+      {% for section in cv.sections %}
+        {% assign section_title = section[0] %}
+        {% assign entries = section[1] %}
+
+        <a
+          class="anchor"
+          id="{{ section_title | slugify }}"
+        ></a>
+
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">
+            {{ section_title }}
+          </h3>
+
+          <div class="card-text">
+            {% for entry in entries %}
+              <div class="mb-4">
+                <div class="row">
+                  <div class="col-sm-9">
+                    {% if entry.position %}
+                      <h5 class="font-weight-bold mb-1">
+                        {{ entry.position }}
+                      </h5>
+                    {% elsif entry.title %}
+                      <h5 class="font-weight-bold mb-1">
+                        {{ entry.title }}
+                      </h5>
+                    {% elsif entry.name %}
+                      <h5 class="font-weight-bold mb-1">
+                        {{ entry.name }}
+                      </h5>
+                    {% elsif entry.studyType or entry.area %}
+                      <h5 class="font-weight-bold mb-1">
+                        {% if entry.studyType %}
+                          {{ entry.studyType }}
+                        {% endif %}
+
+                        {% if entry.studyType and entry.area %}
+                          in
+                        {% endif %}
+
+                        {% if entry.area %}
+                          {{ entry.area }}
+                        {% endif %}
+                      </h5>
+                    {% endif %}
+
+                    {% if entry.company %}
+                      <div>
+                        <strong>{{ entry.company }}</strong>
+                      </div>
+                    {% elsif entry.institution %}
+                      <div>
+                        <strong>{{ entry.institution }}</strong>
+                      </div>
+                    {% elsif entry.awarder %}
+                      <div>
+                        <strong>{{ entry.awarder }}</strong>
+                      </div>
+                    {% elsif entry.issuer %}
+                      <div>
+                        <strong>{{ entry.issuer }}</strong>
+                      </div>
+                    {% elsif entry.publisher %}
+                      <div>
+                        <strong>{{ entry.publisher }}</strong>
+                      </div>
+                    {% endif %}
+
+                    {% if entry.location %}
+                      <div class="text-muted">
+                        {{ entry.location }}
+                      </div>
+                    {% endif %}
+                  </div>
+
+                  <div class="col-sm-3 text-sm-right">
+                    {% if entry.start_date or entry.end_date %}
+                      <span class="badge font-weight-bold text-uppercase align-middle">
+                        {% if entry.start_date %}
+                          {{ entry.start_date }}
+                        {% endif %}
+
+                        {% if entry.start_date and entry.end_date %}
+                          –
+                        {% endif %}
+
+                        {% if entry.end_date %}
+                          {{ entry.end_date }}
+                        {% endif %}
+                      </span>
+                    {% elsif entry.date %}
+                      <span class="badge font-weight-bold text-uppercase align-middle">
+                        {{ entry.date }}
+                      </span>
+                    {% elsif entry.releaseDate %}
+                      <span class="badge font-weight-bold text-uppercase align-middle">
+                        {{ entry.releaseDate }}
+                      </span>
+                    {% endif %}
+                  </div>
+                </div>
+
+                {% if entry.courses %}
+                  <p class="mt-2 mb-1">
+                    {{ entry.courses }}
+                  </p>
+                {% endif %}
+
+                {% if entry.score %}
+                  <p class="mb-1">
+                    <strong>Grade:</strong> {{ entry.score }}
+                  </p>
+                {% endif %}
+
+                {% if entry.summary %}
+                  <p class="mt-2 mb-2">
+                    {{ entry.summary }}
+                  </p>
+                {% endif %}
+
+                {% if entry.authors %}
+                  <p class="mt-2 mb-1">
+                    {% for author in entry.authors %}
+                      {{ author }}{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                  </p>
+                {% endif %}
+
+                {% if entry.keywords %}
+                  <p class="mt-2 mb-1">
+                    {{ entry.keywords }}
+                  </p>
+                {% endif %}
+
+                {% if entry.level %}
+                  <p class="mb-1">
+                    <strong>Level:</strong> {{ entry.level }}
+                  </p>
+                {% endif %}
+
+                {% if entry.highlights %}
+                  <ul class="items">
+                    {% for highlight in entry.highlights %}
+                      <li>
+                        <span class="item">
+                          {{ highlight }}
+                        </span>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </div>
+
+              {% unless forloop.last %}
+                <hr>
+              {% endunless %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </article>
+</div>
