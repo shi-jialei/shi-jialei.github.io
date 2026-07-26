@@ -3,7 +3,7 @@ layout: page
 title: Endoluminal Soft Robots
 description: Soft robotic systems for minimally invasive endoluminal interventions
 img: assets/img/medical-robot.jpg
-importance: 2
+importance: 4
 category: work
 ---
 
