@@ -1,97 +1,142 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+Experience:
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      - company: Imperial College London
+        position: Research Associate
+        location: London, United Kingdom
+        start_date: 2024-03
+        end_date: present
+        summary: >
+          Conducting research in soft robotic endoscopy, medical robotics,
+          robot intelligence, and translational healthcare technologies.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        highlights:
+          - Led development of a soft robotic colonoscope from concept to in vivo validation.
+          - Coordinated multidisciplinary collaborations involving engineers, clinicians, and industry partners.
+          - Published first-author papers in IEEE Transactions on Robotics and secured a UK patent.
+          - Awarded £70k UKRI Impact Acceleration Account funding as Researcher Co-Investigator.
+          - Supervised undergraduate, MSc, and PhD researchers.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+      - company: University College London
+        position: Research Assistant
+        location: London, United Kingdom
+        start_date: 2022-11
+        end_date: 2023-11
+        summary: >
+          Developed a wearable soft robotic haptic interface for tactile perception
+          restoration and clinical neuroscience.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+        highlights:
+          - Designed and integrated a portable soft haptic device.
+          - Conducted human-participant experiments and data analysis.
+          - Delivered a TRL-5 prototype receiving national media coverage.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+      - company: Inria, University of Lille
+        position: Visiting Researcher
+        location: Lille, France
+        start_date: 2023-06
+        end_date: 2023-08
+        summary: >
+          Developed reduced-order finite-element models and closed-loop control
+          for miniaturised soft robotic manipulators.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        highlights:
+          - Awarded UK Turing Scheme Grant.
+          - Co-authored IEEE RoboSoft publication.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    Education:
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+      - institution: University College London
+        location: London, United Kingdom
+        area: Mechatronic and Robotic Engineering
+        studyType: PhD
+        start_date: 2019-09
+        end_date: 2024-02
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        courses: >
+          Thesis: Static Modelling and Control for Pneumatic-Driven Soft Continuum Robots
+
+        highlights:
+          - Developed analytical modelling and control frameworks for soft continuum robots.
+          - Designed miniature fibre-reinforced soft manipulators.
+          - Awarded £140k departmental scholarship.
+          - RSS Pioneers 2024.
+          - UCL Dean's Prize Research Scholarship.
+          - UCL Mechanical Engineering Highly Commended PhD Thesis Award.
+
+      - institution: Beijing Institute of Technology
+        location: Beijing, China
+        studyType: Master of Engineering
+        start_date: 2017-09
+        end_date: 2019-06
+
+        highlights:
+          - Visiting Master's researcher at Tsinghua University.
+          - First Prize Postgraduate Scholarship.
+
+      - institution: Harbin Institute of Technology
+        location: Harbin, China
+        studyType: Bachelor of Engineering
+        start_date: 2013-09
+        end_date: 2017-06
+
+        highlights:
+          - Ranked first for graduate-school recommendation.
+          - Team Leader of the HIT Racing Team.
+          - Formula Student Electric China Champion.
+          - Best Electrical System Design Award (Student Formula Japan).
+
+    Selected Awards:
+
+      - title: IEEE Transactions on Robotics King-Sun Fu Memorial Best Paper Award (Honorable Mention)
+        date: 2026
+        awarder: IEEE Transactions on Robotics
+
+      - title: IEEE RA-L Outstanding Reviewer Award
+        date: 2025
+        awarder: IEEE Robotics and Automation Letters
+
+      - title: UCL Mechanical Engineering Highly Commended PhD Thesis Award
+        date: 2025
+        awarder: University College London
+
+      - title: RSS Pioneers
+        date: 2024
+        awarder: Robotics: Science and Systems
+
+      - title: Best MathWorks Poster Award
+        date: 2023
+        awarder: IEEE RoboSoft Workshop
+
+      - title: Formula Student Electric China Champion
+        date: 2016
+        awarder: Formula Student Electric China
+
+      - title: Best Electrical System Design Award
+        date: 2016
+        awarder: Student Formula Japan
+
+    Research Grants:
+
+      - name: Soft Everting Robot
+        summary: UKRI Impact Acceleration Account (£70,000)
+        highlights:
+          - Researcher Co-Investigator (Co-applicant).
+          - Led proposal conception and development.
+        start_date: 2026-02
+        end_date: 2027-02
+
+      - name: Bounce Control of Soft Spherical Robots for Obstacle Crossing
+        summary: Imperial Dame Julia Higgins Postdoctoral Collaborative Research Fund (£4,950)
+        highlights:
+          - Co-Investigator.
+          - Contributed to project conception and proposal development.
+        start_date: 2025-08
+        end_date: 2026-08
+
+      - name: Reduced-Order Finite Element Modelling and Control of Soft Robots
+        summary: UK Turing Scheme Mobility Grant (£1,100)
+        highlights:
+          - Principal applicant.
+          - Supported collaborative research at Inria Lille on soft robot modelling and control.
+        start_date: 2023-06
+        end_date: 2023-09
