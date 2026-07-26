@@ -6,7 +6,7 @@ img: assets/img/soft-robot-cover.jpg
 importance: 1
 category: work
 project: soft-continuum-robot
-related_publications: true
+related_publications: false
 ---
 
 Soft continuum robots exhibit highly compliant and nonlinear behaviour, making conventional rigid-body kinematics and control methods unsuitable. My research establishes analytical frameworks for modelling and controlling pneumatically actuated soft continuum robots, with a particular focus on kinematics, configuration-dependent stiffness and model-based inverse kinematics. These developments provide the theoretical foundations for accurate robot prediction, interaction analysis and closed-loop control, and underpin many of my subsequent research activities in soft medical robotics.
