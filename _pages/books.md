@@ -1,23 +1,65 @@
 ---
 layout: page
-title: talks/media
+title: talks/presentations
 permalink: /books/
 nav: true
 nav_order: 4
 ---
 
-> **Invited talk**: Engineering soft robots for next-Generation lower gastrointestinal endoscopy, *[Workshop on Soft Robotic Systems for Diagnostics and Therapy in Minimally Invasive and Endoluminal Interventions](https://www.hamlynsymposium.org/events/soft-robotic-systems-for-diagnostics-and-therapy-in-minimally-invasive-and-endoluminal-interventions/), 2026 Hamlyn Symposium on Medical Robotics*, June, 2026.
+This page highlights selected invited talks, workshop presentations, and conference presentations on soft robotics and medical robotics.
 
-> **Invited talk**: Integrated framework and benchmarking platform for characterisation, control, and modelling of soft robots, *IEEE RoboSoft Workshop on benchmarking in soft robots*, April, 2025.
+---
 
-> **Oral presentation**: Understanding compliance properties of soft continuum robots: from analytical model to model-based control, *Robotics: Science and Systems (RSS) Pioneers*, June, 2024.
+### 2026
 
-> **Invited talk**: Characterisation and control platform for pneumatically driven soft robots, *ICRA Tutorial on towards an accessible soft robotics toolbox and validation test rig*, June, 2023 [(link)](https://helge-wurdemann.com/icra-2023-tutorial-towards-an-accessible-soft-robotics-toolbox-and-validation-test-rig/)].
+> **Invited Talk**  
+> **Engineering Soft Robots for Next-Generation Lower Gastrointestinal Endoscopy**  
+> *Workshop on Soft Robotic Systems for Diagnostics and Therapy in Minimally Invasive and Endoluminal Interventions*, 2026 Hamlyn Symposium on Medical Robotics, London, UK, June 2026.
 
-> **Oral presentation**: Characterisation and control platform for pneumatically driven soft robots: Design and applications. *IEEE RoboSoft*, April, 2023.
+---
 
-> **Oral presentation**: Design, modelling and control for soft continuum robots with full chamber reinforcement. *UCL Robotics*, February, 2023 [(video)](https://www.youtube.com/watch?v=ozUIybgixMM).
+### 2025
 
-> **Invited presentation**: Design and modelling for chamber-Reinforced soft robots with dimension scalability, *Exeter International Symposium on Small-Scale Robots*, July, 2022 [(video)](https://www.youtube.com/watch?v=ZrUxadf5lnY).
+> **Invited Talk**  
+> **Integrated Framework and Benchmarking Platform for Characterisation, Control, and Modelling of Soft Robots**  
+> *IEEE RoboSoft Workshop on Benchmarking in Soft Robots*, Lausanne, Switzerland, April 2025.
 
-> **Oral presentation**: Design and characterisation of cross-sectional geometries for soft robotic manipulators with fibre-reinforced chambers. *IEEE RoboSoft*, April, 2022 [(video)](https://www.youtube.com/watch?v=S5FFPeWhjoY).
+---
+
+### 2024
+
+> **Oral Presentation**  
+> **Understanding Compliance Properties of Soft Continuum Robots: From Analytical Modelling to Model-Based Control**  
+> *Robotics: Science and Systems (RSS) Pioneers*, Delft, The Netherlands, July 2024.
+
+---
+
+### 2023
+
+> **Invited Talk**  
+> **Characterisation and Control Platform for Pneumatically Driven Soft Robots**  
+> *ICRA Tutorial: Towards an Accessible Soft Robotics Toolbox and Validation Test Rig*, London, UK, May 2023.  
+> [[Workshop]](https://helge-wurdemann.com/icra-2023-tutorial-towards-an-accessible-soft-robotics-toolbox-and-validation-test-rig/)
+
+> **Oral Presentation**  
+> **Characterisation and Control Platform for Pneumatically Driven Soft Robots: Design and Applications**  
+> *IEEE International Conference on Soft Robotics (RoboSoft)*, Singapore, April 2023.
+
+> **Oral Presentation**  
+> **Design, Modelling and Control for Soft Continuum Robots with Full Chamber Reinforcement**  
+> *UCL Robotics Seminar*, London, UK, February 2023.  
+> [[Video]](https://www.youtube.com/watch?v=ozUIybgixMM)
+
+---
+
+### 2022
+
+> **Invited Presentation**  
+> **Design and Modelling for Chamber-Reinforced Soft Robots with Dimension Scalability**  
+> *Exeter International Symposium on Small-Scale Robots*, Exeter, UK, July 2022.  
+> [[Video]](https://www.youtube.com/watch?v=ZrUxadf5lnY)
+
+> **Oral Presentation**  
+> **Design and Characterisation of Cross-Sectional Geometries for Soft Robotic Manipulators with Fibre-Reinforced Chambers**  
+> *IEEE International Conference on Soft Robotics (RoboSoft)*, Edinburgh, UK, April 2022.  
+> [[Video]](https://www.youtube.com/watch?v=S5FFPeWhjoY)
