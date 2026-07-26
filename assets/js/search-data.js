@@ -471,9 +471,9 @@ ninja.data = [{
           description: "Design, fundamental modelling and control of soft continuum robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-medical-robots",
-          title: 'Medical Robots',
-          description: "Design and application of soft robots for medical applications",
+            },},{id: "projects-endoluminal-soft-robots",
+          title: 'Endoluminal soft robots',
+          description: "Design and application of soft robots for Endoluminal applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-vehicle-mechatronics-and-formula-student",
