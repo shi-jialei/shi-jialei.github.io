@@ -95,3 +95,17 @@ The modelling framework considers several important sources of nonlinear behavio
 - stiffness changes in pressurised chambers;
 - linear and nonlinear hyperelastic material models;
 - variations in robot diameter, length and chamber geometry.
+
+## Related Publications
+
+- **J. Shi**, W. Gaozhang, H. Jin, G. Shi and H. A. Wurdemann,  
+  *Characterisation and Control Platform for Pneumatically Driven Soft Robots: Design and Applications*, 2023.  
+  [[PDF](/assets/pdf/Shi_ROS_2023.pdf)]
+
+- **J. Shi**, H. Jin, W. Gaozhang, G. Shi, S.-A. Abad and H. A. Wurdemann,  
+  *A Static Modelling and Evaluation Framework for Soft Continuum Robots with Reinforced Chambers*, IEEE Transactions on Robotics, 2025.  
+  [[PDF](/assets/pdf/Shi_TRO2_2025.pdf)]
+
+- **Y. Lu**, K. Borvorntanajanya, **J. Shi** and F. Rodriguez y Baena,  
+  *Finite Element Analysis and Experimental Characterisation of a Localised Steerable Tip for Soft Everting Robots*, IEEE RoboSoft, 2026.  
+  [[PDF](/assets/pdf/Lu_RoboSoft_2026.pdf)]
