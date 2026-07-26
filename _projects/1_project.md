@@ -26,8 +26,19 @@ The proposed models capture several important nonlinear phenomena, including:
 
 The resulting framework enables accurate prediction of robot shape, tip position and force-generation capability while remaining computationally efficient for real-time applications.
 
-More details are presented in the
-[International Journal of Robotics Research paper](/assets/pdf/Shi_IJRR_2024.pdf).
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid
+        loading="eager"
+        path="assets/img/fig1_compliance.png"
+        title="Configuration-dependent stiffness modelling"
+        class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+Illustration of robot compliance for (a) rigid-linked and (b) soft continuum robots, under two different robot configurations.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -77,12 +88,17 @@ The modelling and control methods presented on this page are described in the fo
    Springer, 2026.  
    [[Chapter](https://link.springer.com/chapter/10.1007/978-3-032-22453-8_15)]
 
-2. **J. Shi**, S.-A. Abad, J. S. Dai and H. A. Wurdemann,  
+2. **J. Shi**
+   **Understanding Compliance Properties of Soft Continuum Robots: From Analytical Model to Model-based Control**,  
+   *RSS Pioneers*, 2024.  
+   [[PDF](https://sites.google.com/view/rsspioneers2024/participants)]
+
+3. **J. Shi**, S.-A. Abad, J. S. Dai and H. A. Wurdemann,  
    **Position and Orientation Control for Hyperelastic Multisegment Continuum Robots**,  
    *IEEE/ASME Transactions on Mechatronics*, 2024.  
    [[PDF](/assets/pdf/Shi_T-Mech_2024.pdf)]
 
-3. **J. Shi**, A. Shariati, S.-A. Abad, Y. Liu, J. S. Dai and H. A. Wurdemann,  
+4. **J. Shi**, A. Shariati, S.-A. Abad, Y. Liu, J. S. Dai and H. A. Wurdemann,  
    **Stiffness Modelling and Analysis of Soft Fluidic-Driven Robots Using Lie Theory**,  
    *The International Journal of Robotics Research*, 2024.  
    [[PDF](/assets/pdf/Shi_IJRR_2024.pdf)]
