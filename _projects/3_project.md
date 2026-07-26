@@ -28,4 +28,4 @@ The project taught me how to build reliable engineering systems under tight dead
 
 
 ## Gallery
-[Memorable moments](https://www.youtube.com/playlist?list=PLYHszAhMTGHw)
+[Some of Memorable moments](https://www.youtube.com/playlist?list=PLYHszAhMTGHw)
