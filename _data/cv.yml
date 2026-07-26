@@ -82,6 +82,10 @@ cv:
       - title: IEEE Transactions on Robotics King-Sun Fu Memorial Best Paper Award — Honorable Mention
         date: "2026"
         awarder: IEEE Transactions on Robotics
+        
+      - title: IEEE RoboSoft In-pipe Locomotion Competition — Second Prize 
+        date: "2026"
+        awarder: IEEE IEEE International Conference on Soft Robotics
 
       - title: IEEE Robotics and Automation Letters Outstanding Reviewer Award
         date: "2025"
@@ -93,11 +97,15 @@ cv:
 
       - title: RSS Pioneers
         date: "2024"
-        awarder: Robotics Science and Systems
+        awarder: Robotics: Science and Systems
 
       - title: Best MathWorks Poster Award
         date: "2023"
         awarder: IEEE RoboSoft Workshop
+
+      - title: UCL Dean's Prize Research Scholarship
+        date: "2019"
+        awarder: University College London
 
       - title: Formula Student Electric China Champion
         date: "2016"
@@ -133,3 +141,13 @@ cv:
           - Supported collaborative research at Inria Lille on modelling and control of soft robots.
         start_date: 2023-06
         end_date: 2023-09
+        
+    Professional Service:
+      - name: Peer review
+        summary: >
+          Reviewer for The International Journal of Robotics Research, IEEE Transactions 
+          on Robotics, IEEE Robotics and Automation Letters, IEEE/ASME Transactions on Mechatronics, 
+          Soft Robotics, Hamlyn Symposium on Medical Robotics, ICRA, IROS, and RoboSoft; 
+          reviewer for the EPSRC New Investigator Award.
+        start_date: 2019-09
+        end_date: present
