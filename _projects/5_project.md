@@ -1,42 +1,79 @@
 ---
 layout: page
-title: Physical human–robot interaction and haptics
-description: Active regulation and perception of robot-environment interaction and haptics
+title: Physical Human–Robot Interaction and Haptics
+description: Active regulation and perception of robot–environment interaction
 img: assets/img/interaction.jpg
 importance: 3
 category: work
 ---
 
-    ---
-    Active Interactive Compliance Regulation
-    ---
+Physical interaction lies at the heart of many robotic applications, from surgical robotics to assistive devices and wearable technologies. My research focuses on enabling robots to actively regulate mechanical interaction with their environment while improving human perception through wearable haptic interfaces. This work combines model-based interaction control, compliance regulation and haptic technologies to achieve safer, more intuitive and more effective physical human–robot interaction.
 
-The exhibited compliance of soft robots can be actively regulated to be stiffer or softer than its passive compliance. More details are in [T-Mech paper](/assets/pdf/Shi_T-Mech_2025.pdf).
+---
+
+## Active Interactive Compliance Regulation
+
+Soft robots possess intrinsic compliance, but their passive mechanical behaviour cannot always satisfy the requirements of different manipulation tasks. This project investigates active compliance regulation, enabling the apparent stiffness of a soft robot to be stiffened or softened.
+
+The proposed framework builds on analytical robot models, allowing the robot to exhibit either softer or stiffer responses than its natural passive compliance. This capability improves force regulation, environmental adaptation and interaction safety during contact-rich manipulation.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/compliance-control.jpg" title="control image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid
+        loading="eager"
+        path="assets/img/compliance-control.jpg"
+        title="Active compliance regulation"
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    Diagram of the active compliance regulation
+Model-based active regulation of the interactive compliance of soft continuum robots.
 </div>
-Demonstration of the interactive compliance regulation: 
+
+### Demonstration
+
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/E2CjLLRjTWg" allowfullscreen></iframe>
+    <iframe class="embed-responsive-item"
+        src="https://www.youtube.com/embed/E2CjLLRjTWg"
+        allowfullscreen>
+    </iframe>
 </div>
 
+---
 
-    ---
-    Haptic Finger Tip Device
-    ---
-    
-A [haptic fingertip device](https://www.nature.com/articles/s41467-024-51779-8) is developed led by [Dr. Sara Abad Guaman](https://profiles.ucl.ac.uk/75742-sara-abad-guaman) and [Prof. Helge Arne Wurdemann](https://helge-wurdemann.com/) from UCL. To advance the device’s Technology Readiness Level (TRL), I worked as a Research Assistant from December 2022 to December 2023, during which I further developed the system’s electronics and control interface. In collaboration with my colleague [Dr. Wenlong Gaozhang](https://scholar.google.com/citations?user=vhKVcqsAAAAJ&hl=en), we created a fully portable system. The device shows strong potential for use in robot-assisted surgery by enabling haptic feedback during interactions with cancerous tissues. It may also serve as a diagnostic tool for assessing fingertip sensory perception.
+## Wearable Haptic Fingertip Device
 
-The device is featured in mainstream media, including [Financial Times](https://www.ft.com/content/514f4021-7d35-46cf-a22c-2de1c68caafc), the [Standard](https://www.standard.co.uk/news/uk/ucl-university-college-london-b1181550.html), and [the Independent](https://www.independent.co.uk/tech/robot-touch-hand-skin-ucl-b2611450.html). Read the [whole story](https://www.linkedin.com/posts/dr-sara-adela-abad-g-84a81680_research-bioinspired-adaptable-activity-7239900906002022400-SnH0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh93ckBTus7XwvxwXCTwktfN2mLY6GLl18).
+Haptic feedback plays an essential role in restoring the sense of touch during robot-assisted interventions. As part of a multidisciplinary team at University College London, I contributed to the development of a bio-inspired wearable fingertip device capable of reproducing realistic tactile sensations.
+
+Working as a Research Assistant, I further developed the system electronics and control interface and, together with Dr. Wenlong Gaozhang, designed a fully portable hardware platform to improve the technology readiness of the device. The system has potential applications in robot-assisted surgery by restoring tactile perception during interaction with biological tissues, while also providing a platform for quantitative assessment of fingertip sensory function.
+
+The project was led by Dr. Sara-Adela Abad Guaman and Prof. Helge A. Wurdemann at UCL, and was featured by several international media outlets, including the *Financial Times*, *The Standard* and *The Independent*.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/finger-tip.jpeg" title="control image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid
+        loading="eager"
+        path="assets/img/finger-tip.jpeg"
+        title="Wearable haptic fingertip device"
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
+<div class="caption">
+Portable wearable fingertip device for restoring tactile perception during human–robot interaction.
+</div>
+
+---
+
+## Related Publications
+
+1. **D. Zhou** and **J. Shi**,  
+   **Hybrid Position–Compliance Control for Selective Stiffening and Softening in Soft Continuum Robots**,  
+   *IEEE/ASME Transactions on Mechatronics*, 2026.  
+   [[PDF](/assets/pdf/Zhou_T-Mech_2026.pdf)]
+
+2. **J. Shi**, S.-A. Abad, G. Shi, W. Gaozhang, J. S. Dai and H. A. Wurdemann,  
+   **Model-Based Static Compliance Analysis and Control for Pneumatic-Driven Soft Robots**,  
+   *IEEE/ASME Transactions on Mechatronics*, 2025.  
+   [[PDF](/assets/pdf/Shi_T-Mech_2025.pdf)]
