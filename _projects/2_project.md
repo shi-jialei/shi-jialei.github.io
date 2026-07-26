@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Medical Robots
-description: Design and application of soft robots for medical applications
+title: Endoluminal soft robots
+description: Design and application of soft robots for Endoluminal applications
 img: assets/img/medical-robot.jpg
 importance: 2
 category: work
