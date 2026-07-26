@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Vehicle Mechatronics and Formula Student
+title: Vehicle mechatronics and formula student
 description: Undergraduate and master projects on vehicle mechatronics, having fun of building racing cars!
 img: assets/img/team_2016.jpg
-importance: 4
+importance: 5
 category: fun
 ---
 
