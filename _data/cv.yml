@@ -143,7 +143,7 @@ cv:
         end_date: 2023-09
         
     Professional Service:
-      - name: Peer review
+      - name: Peer Review
         summary: >
           Reviewer for The International Journal of Robotics Research, IEEE Transactions 
           on Robotics, IEEE Robotics and Automation Letters, IEEE/ASME Transactions on Mechatronics, 
@@ -151,3 +151,6 @@ cv:
           reviewer for the EPSRC New Investigator Award.
         start_date: 2019-09
         end_date: present
+        
+    References:
+      - name: Available upon request
