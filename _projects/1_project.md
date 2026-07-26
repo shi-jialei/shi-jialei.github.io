@@ -88,7 +88,7 @@ The modelling and control methods presented on this page are described in the fo
    Springer, 2026.  
    [[Chapter](https://link.springer.com/chapter/10.1007/978-3-032-22453-8_15)]
 
-2. **J. Shi**
+2. **J. Shi**,
    **Understanding Compliance Properties of Soft Continuum Robots: From Analytical Model to Model-based Control**,  
    *RSS Pioneers*, 2024.  
    [[PDF](https://sites.google.com/view/rsspioneers2024/participants)]
