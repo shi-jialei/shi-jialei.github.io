@@ -2,7 +2,7 @@
 layout: page
 title: Physical Human–Robot Interaction and Haptics
 description: Active regulation and perception of robot–environment interaction
-img: assets/img/interaction.jpg
+img: assets/img/wearing_haptics.jpg
 importance: 3
 category: work
 ---
