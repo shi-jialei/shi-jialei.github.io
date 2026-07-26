@@ -42,7 +42,7 @@ The fabrication framework was demonstrated using eight manipulators with differe
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid
            loading="eager"
-           path="assets/img/fabrication.png"
+           path="assets/img/fabrication_pipeline.png"
            title="Fabrication process for soft robots with reinforced chambers"
            class="img-fluid rounded z-depth-1"
         %}
