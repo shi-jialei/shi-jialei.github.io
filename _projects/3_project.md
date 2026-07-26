@@ -18,6 +18,7 @@ The project taught me how to build reliable engineering systems under tight dead
 ## Highlights
 
 - Team Leader and day-to-day management of the HIT Racing EV Team (60+ members) in Season 2015-2016
+- Racing car driver
 - founder of HIT Autonomous Racing Team in 2016.
 - Designed and integrated electrical and powertrain systems
 - Led vehicle testing and competition preparation
