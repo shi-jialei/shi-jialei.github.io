@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Research areas
 permalink: /projects/
-description: Collections of projects.
+description: Collections of research areas.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
