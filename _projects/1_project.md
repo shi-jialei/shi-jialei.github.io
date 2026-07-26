@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fundamentals of soft continuum robots
-description: Design, fundamental modelling and control of soft continuum robots
+title: Fundamentals of Soft Continuum Robots
+description: Kinematics, stiffness modelling and model-based control of soft continuum robots
 img: assets/img/soft-robot-cover.jpg
 importance: 1
 category: work
@@ -9,43 +9,80 @@ project: soft-continuum-robot
 related_publications: true
 ---
 
-    ---
-    Robot Design, Fabrication and Characterisation
-    ---
+Soft continuum robots exhibit highly compliant and nonlinear behaviour, making conventional rigid-body kinematics and control methods unsuitable. My research establishes analytical frameworks for modelling and controlling pneumatically actuated soft continuum robots, with a particular focus on kinematics, configuration-dependent stiffness and model-based inverse kinematics. These developments provide the theoretical foundations for accurate robot prediction, interaction analysis and closed-loop control, and underpin many of my subsequent research activities in soft medical robotics.
 
-The miniaturisation of soft robots with reinforced chambers and free working working channels is challenging. The following fabrication process allows miniaturised soft manipulators on the sub-centimetre scale (i.e., less than 10 mm). Details are in the [RoboSoft paper](/assets/pdf/SHI_ROS_2024.pdf)
+---
+
+## Kinematics and Stiffness Modelling
+
+Analytical models are essential for understanding the nonlinear mechanics of soft continuum robots and enabling model-based robot design and control. I developed analytical frameworks based on Cosserat rod theory to describe both the kinematic behaviour and the configuration-dependent stiffness of fibre-reinforced soft continuum robots.
+
+The proposed models capture several important nonlinear phenomena, including:
+
+- large deformation of compliant structures;
+- material hyperelasticity;
+- cross-sectional deformation during elongation;
+- interaction between robot configuration and mechanical stiffness.
+
+The resulting framework enables accurate prediction of robot shape, tip position and force-generation capability while remaining computationally efficient for real-time applications.
+
+More details are presented in the
+[International Journal of Robotics Research paper](/assets/pdf/Shi_IJRR_2024.pdf).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fabrication.jpg" title="fabrication image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid
+        loading="eager"
+        path="assets/img/compliance-model.jpg"
+        title="Configuration-dependent stiffness modelling"
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    Fabrication process for miniaturised soft robots with reinforced chambers
+Configuration-dependent kinematics and stiffness modelling of fibre-reinforced soft continuum robots.
 </div>
+
+---
+
+## Model-Based Inverse Kinematics Control
+
+Building upon the analytical modelling framework, I developed model-based inverse kinematics algorithms for pneumatically actuated soft continuum robots. Instead of relying on empirical calibration or learning-based approaches, the controller directly exploits the analytical robot model to determine the actuation pressures required to achieve a desired robot configuration.
+
+The proposed framework enables:
+
+- model-based inverse kinematics;
+- real-time trajectory tracking;
+- improved positioning accuracy;
+- seamless integration with higher-level control algorithms.
+
+This work establishes a complete mechanics-based control framework for soft continuum robots and provides the theoretical basis for later developments in interaction control and autonomous robotic manipulation.
+
+More details are available in the
+[IEEE/ASME Transactions on Mechatronics paper](/assets/pdf/Shi_T-Mech_2024.pdf).
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/yPKFU3UapxQ" allowfullscreen></iframe>
+    <iframe class="embed-responsive-item"
+        src="https://www.youtube.com/embed/Ngrbg2_GYGk"
+        allowfullscreen>
+    </iframe>
 </div>
 
+## Related Publications
 
-    ---
-    Robot Modelling
-    ---
+The modelling and control methods presented on this page are described in the following publications:
+1. **J. Shi**, W. Gaozhang, S.-A. Abad and H. Wurdemann,  
+   **Stiffness Modelling and Control for Soft Material Continuum Robotic Manipulators**,  
+   In *Soft Material Robotic Systems: Recent Advances and Future Developments*,  
+   Springer, 2026.  
+   [[Chapter](https://link.springer.com/chapter/10.1007/978-3-032-22453-8_15)]
 
-    
-Configuration-dependent compliance modelling and analysis:
-Read the [IJRR paper](/assets/pdf/Shi_IJRR_2024.pdf):
-<iframe src="/assets/pdf/Shi_IJRR_2024.pdf" width="100%" height="600px"></iframe>
+2. **J. Shi**, S.-A. Abad, J. S. Dai and H. A. Wurdemann,  
+   **Position and Orientation Control for Hyperelastic Multisegment Continuum Robots**,  
+   *IEEE/ASME Transactions on Mechatronics*, 2024.  
+   [[PDF](/assets/pdf/Shi_T-Mech_2024.pdf)]
 
-
-    ---
-    Robot Control 
-    ---
-
-    
-Inverse kinematics control based on the Cosserat rod model, details are reported in the [T-Mech Paper](/assets/pdf/Shi_T-Mech_2024.pdf).
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/Ngrbg2_GYGk" allowfullscreen></iframe>
-</div>
-
+3. **J. Shi**, A. Shariati, S.-A. Abad, Y. Liu, J. S. Dai and H. A. Wurdemann,  
+   **Stiffness Modelling and Analysis of Soft Fluidic-Driven Robots Using Lie Theory**,  
+   *The International Journal of Robotics Research*, 2024.  
+   [[PDF](/assets/pdf/Shi_IJRR_2024.pdf)]
