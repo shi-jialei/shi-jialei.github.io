@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research areas
+title: research areas
 permalink: /projects/
 description: Collections of research areas.
 nav: true
