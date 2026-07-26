@@ -6,6 +6,8 @@ nav: true
 nav_order: 4
 ---
 
+> **Invited talk**: Engineering soft robots for next-Generation lower gastrointestinal endoscopy, *[Workshop on Soft Robotic Systems for Diagnostics and Therapy in Minimally Invasive and Endoluminal Interventions](https://www.hamlynsymposium.org/events/soft-robotic-systems-for-diagnostics-and-therapy-in-minimally-invasive-and-endoluminal-interventions/), 2026 Hamlyn Symposium on Medical Robotics*, June, 2026.
+
 > **Invited talk**: Integrated framework and benchmarking platform for characterisation, control, and modelling of soft robots, *IEEE RoboSoft Workshop on benchmarking in soft robots*, April, 2025.
 
 > **Oral presentation**: Understanding compliance properties of soft continuum robots: from analytical model to model-based control, *Robotics: Science and Systems (RSS) Pioneers*, June, 2024.
