@@ -43,14 +43,14 @@ The fabrication framework was demonstrated using eight manipulators with differe
         {% include figure.liquid
            loading="eager"
            path="assets/img/fabrication.png"
-           title="Graphical user interface for the soft robot simulation"
+           title="Fabrication process for soft robots with reinforced chambers"
            class="img-fluid rounded z-depth-1"
         %}
     </div>
 </div>
 
 <div class="caption">
-    Graphic user interface with its architecture for achieving analytical analysis of soft robots with densely reinforced chambers.
+    Fabrication process for soft robots with reinforced chambers.
 </div>
 
 
