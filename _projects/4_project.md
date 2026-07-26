@@ -2,7 +2,7 @@
 layout: page
 title: Design, Benchmarking and Tools for Soft Robotics
 description: Developing experimental platforms, fabrication methods, modelling frameworks and software tools for soft robot development and evaluation.
-img: assets/img/platform_cover.png
+img: assets/img/benchmark_platform.png
 importance: 2
 category: work
 ---
