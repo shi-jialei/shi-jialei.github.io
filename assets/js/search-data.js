@@ -477,7 +477,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-vehicle-mechatronics-and-formula-student",
-          title: 'Vehicle Mechatronics and Formula Student',
+          title: 'Vehicle mechatronics and formula student',
           description: "Undergraduate and master projects on vehicle mechatronics, having fun of building racing cars!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
