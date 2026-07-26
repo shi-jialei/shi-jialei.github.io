@@ -429,6 +429,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-imperial-dame-julia-higgins-postdoc-collaborative-research-fund-is-awarded",
+          title: 'Imperial Dame Julia Higgins Postdoc Collaborative Research Fund is awarded!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_12/";
             },},{id: "news-two-first-authored-tro-papers-in-the-same-year-my-second-t-ro-paper-on-soft-continuum-robot-is-accepted",
           title: 'Two first-authored TRO papers in the same year! My second T-RO paper on...',
           description: "",
@@ -449,8 +454,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
-            },},{id: "news-papers-for-my-two-supervised-master-students-in-2025-are-all-accepted",
-          title: 'Papers for my two supervised Master students in 2025 are all accepted!',
+            },},{id: "news-papers-from-my-two-supervised-master-students-in-2025-are-all-accepted",
+          title: 'Papers from my two supervised Master students in 2025 are all accepted!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
