@@ -1,7 +1,6 @@
 cv:
-  name: Jialei Shi
+  name: Dr. Jialei Shi
   label: Postdoctoral Research Associate
-  email: j.shi@imperial.ac.uk
 
   sections:
     Experience:
@@ -48,7 +47,6 @@ cv:
 
     Education:
       - institution: University College London
-        location: London, United Kingdom
         area: Mechatronic and Robotic Engineering
         studyType: PhD
         start_date: 2019-09
@@ -63,7 +61,6 @@ cv:
           - Received the UCL Mechanical Engineering Highly Commended PhD Thesis Award.
 
       - institution: Beijing Institute of Technology
-        location: Beijing, China
         studyType: Master of Engineering
         start_date: 2017-09
         end_date: 2019-06
@@ -72,7 +69,6 @@ cv:
           - Awarded the First Prize Postgraduate Scholarship.
 
       - institution: Harbin Institute of Technology
-        location: Weihai, China
         studyType: Bachelor of Engineering
         start_date: 2013-09
         end_date: 2017-06
@@ -112,7 +108,7 @@ cv:
         awarder: Student Formula Japan
 
     Research Grants:
-      - name: Soft Everting Robot
+      - name: Self-propelled Robotic Endoscope
         summary: UKRI Impact Acceleration Account funding totalling £70,000.
         highlights:
           - Researcher Co-Investigator and co-applicant.
