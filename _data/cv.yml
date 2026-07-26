@@ -1,4 +1,11 @@
-Experience:
+cv:
+  name: Jialei Shi
+  label: Postdoctoral Research Associate
+  email: j.shi@imperial.ac.uk
+
+  sections:
+
+    Experience:
 
       - company: Imperial College London
         position: Research Associate
@@ -10,10 +17,10 @@ Experience:
           robot intelligence, and translational healthcare technologies.
 
         highlights:
-          - Led development of a soft robotic colonoscope from concept to in vivo validation.
+          - Led the development of a soft robotic colonoscope from concept to in vivo validation.
           - Coordinated multidisciplinary collaborations involving engineers, clinicians, and industry partners.
           - Published first-author papers in IEEE Transactions on Robotics and secured a UK patent.
-          - Awarded £70k UKRI Impact Acceleration Account funding as Researcher Co-Investigator.
+          - Awarded £70,000 UKRI Impact Acceleration Account funding as Researcher Co-Investigator (Co-applicant).
           - Supervised undergraduate, MSc, and PhD researchers.
 
       - company: University College London
@@ -22,13 +29,13 @@ Experience:
         start_date: 2022-11
         end_date: 2023-11
         summary: >
-          Developed a wearable soft robotic haptic interface for tactile perception
-          restoration and clinical neuroscience.
+          Developed a wearable soft robotic haptic interface for tactile
+          perception restoration and clinical neuroscience.
 
         highlights:
           - Designed and integrated a portable soft haptic device.
-          - Conducted human-participant experiments and data analysis.
-          - Delivered a TRL-5 prototype receiving national media coverage.
+          - Designed and conducted human-participant studies with clinical collaborators.
+          - Delivered a TRL-5 prototype that received national media coverage.
 
       - company: Inria, University of Lille
         position: Visiting Researcher
@@ -40,8 +47,9 @@ Experience:
           for miniaturised soft robotic manipulators.
 
         highlights:
-          - Awarded UK Turing Scheme Grant.
-          - Co-authored IEEE RoboSoft publication.
+          - Awarded a UK Turing Scheme Mobility Grant.
+          - Developed reduced-order finite-element models and digital-twin simulations.
+          - Co-authored an IEEE RoboSoft publication.
 
     Education:
 
@@ -51,17 +59,16 @@ Experience:
         studyType: PhD
         start_date: 2019-09
         end_date: 2024-02
-
         courses: >
           Thesis: Static Modelling and Control for Pneumatic-Driven Soft Continuum Robots
 
         highlights:
           - Developed analytical modelling and control frameworks for soft continuum robots.
           - Designed miniature fibre-reinforced soft manipulators.
-          - Awarded £140k departmental scholarship.
-          - RSS Pioneers 2024.
-          - UCL Dean's Prize Research Scholarship.
-          - UCL Mechanical Engineering Highly Commended PhD Thesis Award.
+          - Awarded a £140,000 departmental scholarship.
+          - Selected for RSS Pioneers 2024.
+          - Awarded the UCL Dean's Prize Research Scholarship.
+          - Received the UCL Mechanical Engineering Highly Commended PhD Thesis Award.
 
       - institution: Beijing Institute of Technology
         location: Beijing, China
@@ -70,28 +77,28 @@ Experience:
         end_date: 2019-06
 
         highlights:
-          - Visiting Master's researcher at Tsinghua University.
-          - First Prize Postgraduate Scholarship.
+          - Conducted research at Tsinghua University as a visiting master's student.
+          - Awarded the First Prize Postgraduate Scholarship.
 
       - institution: Harbin Institute of Technology
-        location: Harbin, China
+        location: Weihai, China
         studyType: Bachelor of Engineering
         start_date: 2013-09
         end_date: 2017-06
 
         highlights:
           - Ranked first for graduate-school recommendation.
-          - Team Leader of the HIT Racing Team.
-          - Formula Student Electric China Champion.
-          - Best Electrical System Design Award (Student Formula Japan).
+          - Served as Team Leader of the HIT Racing Team.
+          - Won the Formula Student Electric China Championship.
+          - Received the Best Electrical System Design Award at Student Formula Japan.
 
-    Selected Awards:
+    Honours & Awards:
 
       - title: IEEE Transactions on Robotics King-Sun Fu Memorial Best Paper Award (Honorable Mention)
         date: 2026
         awarder: IEEE Transactions on Robotics
 
-      - title: IEEE RA-L Outstanding Reviewer Award
+      - title: IEEE Robotics and Automation Letters Outstanding Reviewer Award
         date: 2025
         awarder: IEEE Robotics and Automation Letters
 
@@ -120,7 +127,7 @@ Experience:
       - name: Soft Everting Robot
         summary: UKRI Impact Acceleration Account (£70,000)
         highlights:
-          - Researcher Co-Investigator (Co-applicant).
+          - Researcher Co-Investigator and co-applicant.
           - Led proposal conception and development.
         start_date: 2026-02
         end_date: 2027-02
@@ -129,7 +136,7 @@ Experience:
         summary: Imperial Dame Julia Higgins Postdoctoral Collaborative Research Fund (£4,950)
         highlights:
           - Co-Investigator.
-          - Contributed to project conception and proposal development.
+          - Contributed to proposal conception and development.
         start_date: 2025-08
         end_date: 2026-08
 
@@ -137,6 +144,7 @@ Experience:
         summary: UK Turing Scheme Mobility Grant (£1,100)
         highlights:
           - Principal applicant.
-          - Supported collaborative research at Inria Lille on soft robot modelling and control.
+          - Supported collaborative research at Inria Lille on modelling and control of soft robots.
         start_date: 2023-06
         end_date: 2023-09
+```
