@@ -171,7 +171,7 @@ layout: default
 
                   <div class="col-sm-3 text-sm-right">
                     {% if entry.start_date or entry.end_date %}
-                      <span class="badge font-weight-bold text-uppercase align-middle">
+                      <span class="cv-date font-weight-bold align-middle">
                         {% if entry.start_date %}
                           {{ entry.start_date }}
                         {% endif %}
@@ -185,11 +185,11 @@ layout: default
                         {% endif %}
                       </span>
                     {% elsif entry.date %}
-                      <span class="badge font-weight-bold text-uppercase align-middle">
+                      <span class="cv-date font-weight-bold align-middle">
                         {{ entry.date }}
                       </span>
                     {% elsif entry.releaseDate %}
-                      <span class="badge font-weight-bold text-uppercase align-middle">
+                      <span class="cv-date font-weight-bold align-middle">
                         {{ entry.releaseDate }}
                       </span>
                     {% endif %}
