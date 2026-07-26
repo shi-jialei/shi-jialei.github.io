@@ -33,14 +33,14 @@ More details are presented in the
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid
         loading="eager"
-        path="assets/img/compliance-model.jpg"
+        path="assets/img/stiffness_modelling.png"
         title="Configuration-dependent stiffness modelling"
         class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-Configuration-dependent kinematics and stiffness modelling of fibre-reinforced soft continuum robots.
+Configuration-dependent kinematics and stiffness modelling of soft continuum robots.
 </div>
 
 ---
