@@ -1,5 +1,10 @@
 .cv-date {
+  display: inline-block;
   color: var(--global-text-color);
-  background: transparent;
+  background-color: var(--global-code-bg-color);
+  padding: 0.2rem 0.6rem;
+  border-radius: 0.4rem;
+  font-size: 0.85rem;
+  font-weight: 600;
   white-space: nowrap;
 }
