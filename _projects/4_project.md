@@ -40,10 +40,21 @@ The behaviour of a soft robot is strongly influenced by its geometry, material p
 For fibre-reinforced soft continuum robots, I developed fabrication approaches for manipulators with different diameters and lengths. Individual pneumatic chambers are densely wrapped with inextensible fibres to suppress radial expansion while allowing longitudinal elongation. This architecture enables large bending motions while preserving a central working channel for instruments, sensors or other appendages.
 
 The fabrication framework was demonstrated using eight manipulators with different dimensions. These robots provided an extensive experimental basis for investigating how robot size, cross-sectional geometry, silicone properties and chamber pressurisation influence kinematics and force-generation capability.
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/4H1Kp1k9GBM" allowfullscreen></iframe>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid
+           loading="eager"
+           path="assets/img/fabrication.png"
+           title="Graphical user interface for the soft robot simulation"
+           class="img-fluid rounded z-depth-1"
+        %}
+    </div>
 </div>
+
+<div class="caption">
+    Graphic user interface with its architecture for achieving analytical analysis of soft robots with densely reinforced chambers.
+</div>
+
 
 I have also investigated the design of localised steering mechanisms for soft everting robots. A nonlinear finite-element model was developed to analyse a pneumatic steering manipulator operating inside an everting fabric. The model captures the interaction between the silicone manipulator and the surrounding fabric and supports evaluation of key design parameters before physical fabrication.
 
@@ -56,30 +67,28 @@ The combined simulation and experimental study investigated the influence of man
 
 ## Software and GUI Toolboxes
 
-To make soft robot modelling and evaluation more accessible, I develop graphical user interfaces and software toolboxes that integrate robot design, analytical modelling, simulation and experimental analysis.
-
-The characterisation platform includes a MATLAB graphical user interface for commanding pneumatic pressures, monitoring system status, recording sensor measurements and visualising experimental data. The interface allows users to operate the platform without directly modifying low-level control code and supports rapid implementation of characterisation experiments.
+To make soft robot modelling and evaluation more accessible, I develop graphical user interfaces and software toolboxes that integrate robot design, analytical modelling and simulation. Once
+design specification and dimension constraints for a specific application are identified, the user can experiment with the GUI to preliminarily determine, e.g., main design parameters and
+material selection. This information can be used to expedite the robot design and reduce the prototyping time of robots.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid
            loading="eager"
-           path="assets/img/characterisation-platform-gui.jpg"
-           title="Graphical user interface for the soft robot characterisation platform"
+           path="assets/img/GUI.png"
+           title="Graphical user interface for the soft robot simulation"
            class="img-fluid rounded z-depth-1"
         %}
     </div>
 </div>
 
 <div class="caption">
-    MATLAB graphical user interface for pressure control, sensor acquisition and experimental visualisation.
+    Graphic user interface with its architecture for achieving analytical analysis of soft robots with densely reinforced chambers.
 </div>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/Tlcw4VkH7jc" allowfullscreen></iframe>
 </div>
-
-Building upon this platform, I developed a model-based evaluation toolbox for fibre-reinforced soft continuum robots. The toolbox incorporates analytical models for forward kinematics and tip-force generation and allows users to define robot geometry, material behaviour, chamber dimensions and actuation pressures through an interactive interface.
 
 The modelling framework considers several important sources of nonlinear behaviour, including:
 
