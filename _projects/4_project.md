@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Design, Benchmarking and Tools for Soft Robotics
-description: Developing experimental platforms, fabrication methodologies, modelling frameworks and software tools for systematic soft robot development and evaluation.
-img: assets/img/soft-robot-tools.jpg
+description: Developing experimental platforms, fabrication methods, modelling frameworks and software tools for soft robot development and evaluation.
+img: assets/img/platform_cover.png
 importance: 4
 category: work
 ---
@@ -29,8 +29,6 @@ The platform was demonstrated through three representative soft robotic systems:
 <div class="caption">
     Experimental latform for the actuation, characterisation and control validation of pneumatically driven soft robots.
 </div>
-
-More details are available in the paper
 
 
 ## Fabrication and Design Methodologies
@@ -97,5 +95,3 @@ The modelling framework considers several important sources of nonlinear behavio
 - stiffness changes in pressurised chambers;
 - linear and nonlinear hyperelastic material models;
 - variations in robot diameter, length and chamber geometry.
-
-The toolbox enables researchers to predict robot motion and force-generation capability before fabrication. Design parameters can therefore be evaluated computationally and updated iteratively before being transferred to the physical evaluation platform.
