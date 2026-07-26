@@ -481,6 +481,11 @@ ninja.data = [{
           description: "Undergraduate and master projects on vehicle mechatronics, having fun of building racing cars!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-design-benchmarking-and-tools-for-soft-robotics",
+          title: 'Design, Benchmarking and Tools for Soft Robotics',
+          description: "Developing experimental platforms, fabrication methodologies, modelling frameworks and software tools for systematic soft robot development and evaluation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-physical-human-robot-interaction-and-haptics",
           title: 'Physical human–robot interaction and haptics',
           description: "Active regulation and perception of robot-environment interaction and haptics",
