@@ -481,8 +481,8 @@ ninja.data = [{
           description: "Undergraduate and master projects on vehicle mechatronics, having fun of building racing cars!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-robot-interactions-and-haptics",
-          title: 'Robot Interactions and Haptics',
+            },},{id: "projects-physical-human-robot-interaction-and-haptics",
+          title: 'Physical human–robot interaction and haptics',
           description: "Active regulation and perception of robot-environment interaction and haptics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
