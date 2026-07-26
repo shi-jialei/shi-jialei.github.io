@@ -110,8 +110,8 @@ layout: default
           <div class="card-text">
             {% for entry in entries %}
               <div class="mb-4">
-                <div class="row">
-                  <div class="col-sm-8">
+                <div class="cv-entry-header">
+                  <div class="cv-entry-main">
                     {% if entry.position %}
                       <h5 class="font-weight-bold mb-1">
                         {{ entry.position }}
@@ -169,9 +169,9 @@ layout: default
                     {% endif %}
                   </div>
 
-                  <div class="col-sm-4 text-sm-right">
+                  <div class="cv-date-container">
                     {% if entry.start_date or entry.end_date %}
-                      <span class="cv-date font-weight-bold align-middle">
+                      <span class="cv-date">
                         {% if entry.start_date %}
                           {{ entry.start_date }}
                         {% endif %}
@@ -185,11 +185,11 @@ layout: default
                         {% endif %}
                       </span>
                     {% elsif entry.date %}
-                      <span class="cv-date font-weight-bold align-middle">
+                      <span class="cv-date">
                         {{ entry.date }}
                       </span>
                     {% elsif entry.releaseDate %}
-                      <span class="cv-date font-weight-bold align-middle">
+                      <span class="cv-date">
                         {{ entry.releaseDate }}
                       </span>
                     {% endif %}
