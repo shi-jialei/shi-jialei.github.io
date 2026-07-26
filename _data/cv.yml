@@ -64,7 +64,6 @@ cv:
 
       - institution: Beijing Institute of Technology
         location: Beijing, China
-        area: Mechanical Engineering
         studyType: Master of Engineering
         start_date: 2017-09
         end_date: 2019-06
@@ -74,7 +73,6 @@ cv:
 
       - institution: Harbin Institute of Technology
         location: Weihai, China
-        area: Mechanical Engineering
         studyType: Bachelor of Engineering
         start_date: 2013-09
         end_date: 2017-06
