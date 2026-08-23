@@ -22,7 +22,7 @@ nav_order: 5
 
 > **Sara Khan**, Smart navigation of soft everting robots, (Imperial, Associate PhD Supervisor) 2025-present.
 
-> **Oscar Chan**, Graphical User Interface for a Robotic Colonoscope, UROP student (Imperial, Day-to-Day Supervisor), 2026.
+> **Oscar Chan**, Graphical user interface for a robotic colonoscope, UROP student (Imperial, Day-to-Day Supervisor), 2026.
 
 > **William He**, Sensorised benchmarking platform for robotic endoscopes, UROP student (Imperial, Day-to-Day Supervisor), 2026.
 
