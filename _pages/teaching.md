@@ -22,6 +22,8 @@ nav_order: 5
 
 > **Sara Khan**, Smart navigation of soft everting robots, (Associate PhD Supervisor) 2025-present.
 
+> **Oscar Chan**, Graphical User Interface for a Robotic Colonoscope, UROP student (Day-to-Day Supervisor), 2026.
+
 > **William He**, Sensorised benchmarking platform for robotic endoscopes, UROP student (Day-to-Day Supervisor), 2026.
 
 > **Danni Zhou**, Compliance regulation of soft continuum robots, MSc student (Scores: 70+, Day-to-Day Supervisor), 2025. ([Thesis](/assets/pdf/Danni_zhou_AME_2025.pdf)) 
