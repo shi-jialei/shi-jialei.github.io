@@ -54,6 +54,16 @@ The fabrication framework was demonstrated using eight manipulators with differe
 </div>
 
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/yPKFU3UapxQ" allowfullscreen></iframe>
+</div>
+<div class="caption">
+    Miniaturised fiber-reinforced soft manipulators. 
+</div>
+
+
+
+
 I have also investigated the design of localised steering mechanisms for soft everting robots. A nonlinear finite-element model was developed to analyse a pneumatic steering manipulator operating inside an everting fabric. The model captures the interaction between the silicone manipulator and the surrounding fabric and supports evaluation of key design parameters before physical fabrication.
 
 The combined simulation and experimental study investigated the influence of manipulator length, silicone material, fabric thickness and fabric stretchability on steering performance. This approach provides practical guidance for selecting geometries and materials while reducing the number of physical prototypes required during development.
@@ -101,6 +111,10 @@ The modelling framework considers several important sources of nonlinear behavio
 - **J. Shi**, W. Gaozhang, H. Jin, G. Shi and H. A. Wurdemann,  
   *Characterisation and Control Platform for Pneumatically Driven Soft Robots: Design and Applications*, 2023.  
   [[PDF](/assets/pdf/Shi_ROS_2023.pdf)]
+
+- **J. Shi**, S. -A. Abad, A. Menciassi, K. Althoefer and H. A. Wurdemann,
+  *Miniaturised Soft Manipulators with Reinforced Actuation Chambers on the Sub-Centimetre Scale*, IEEE 7th International Conference on Soft Robotics (RoboSoft), 2024.
+  [[PDF](/assets/pdf/SHI_ROS_2024.pdf)]
 
 - **J. Shi**, H. Jin, W. Gaozhang, G. Shi, S.-A. Abad and H. A. Wurdemann,  
   *A Static Modelling and Evaluation Framework for Soft Continuum Robots with Reinforced Chambers*, IEEE Transactions on Robotics, 2025.  
