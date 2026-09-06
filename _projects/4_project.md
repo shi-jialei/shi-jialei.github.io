@@ -62,8 +62,6 @@ The fabrication framework was demonstrated using eight manipulators with differe
 </div>
 
 
-
-
 I have also investigated the design of localised steering mechanisms for soft everting robots. A nonlinear finite-element model was developed to analyse a pneumatic steering manipulator operating inside an everting fabric. The model captures the interaction between the silicone manipulator and the surrounding fabric and supports evaluation of key design parameters before physical fabrication.
 
 The combined simulation and experimental study investigated the influence of manipulator length, silicone material, fabric thickness and fabric stretchability on steering performance. This approach provides practical guidance for selecting geometries and materials while reducing the number of physical prototypes required during development.
