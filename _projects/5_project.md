@@ -66,6 +66,21 @@ Portable wearable fingertip device for restoring tactile perception during human
 
 ---
 
+## Variable-Stiffness Collaborative Robots
+
+Led by Dr. Wenlong Gaozhang from the University of Essex and in collaboration with researchers from King’s College London, Queen Mary University of London, and UCL, we developed a modular collaborative robot incorporating variable-stiffness bending joints, rotational joints and links. Inspired by antagonistic actuation, the system can adapt its configuration and stiffness for safe physical interaction across healthcare and industrial tasks.
+
+### Demonstration
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item"
+        src="https://www.youtube.com/embed/-4tjd3aDn9I"
+        title="Modular variable-stiffness robot"
+        allowfullscreen>
+    </iframe>
+</div>
+---
+
 ## Related Publications
 
 1. **D. Zhou** and **J. Shi**,  
@@ -77,3 +92,8 @@ Portable wearable fingertip device for restoring tactile perception during human
    **Model-Based Static Compliance Analysis and Control for Pneumatic-Driven Soft Robots**,  
    *IEEE/ASME Transactions on Mechatronics*, 2025.  
    [[PDF](/assets/pdf/Shi_T-Mech_2025.pdf)]
+
+3. W. Gaozhang, Y. Li, **J. Shi**, K. Althoefer, A. Stilli, and H. A. Wurdemann,  
+   **A modular variable stiffness co‐bot system achieving tasks flexibility and contact compliance**,  
+   *IEEE/ASME Transactions on Mechatronics*, 2025.  
+   [[PDF](/assets/pdf/Wenlong_as_2026.pdf)]
