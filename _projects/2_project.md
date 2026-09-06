@@ -90,7 +90,7 @@ Overview of the self-propelled soft robotic colonoscope integrating tip-everting
    *IEEE Transactions on Medical Robotics and Bionics*, 2024.  
    [[PDF](/assets/pdf/Shi_TMRB_2024.pdf)]
 
-2. **J. Shi**, K. Borvorntanajanya, K. Chen, P. W. Y. Chiu and F. Rodriguez y Baena,  
+2. **J. Shi**, K. Borvorntanajanya, K. Chen, E. Franco, and F. Rodriguez y Baena,  
    **Design, Control, and Evaluation of a Novel Soft Everting Robot for Colonoscopy**,  
    *IEEE Transactions on Robotics*, 2025.  
    [[PDF](/assets/pdf/Shi_TRO_2025.pdf)]
