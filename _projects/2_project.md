@@ -82,6 +82,7 @@ Overview of the self-propelled soft robotic colonoscope integrating tip-everting
     </iframe>
 </div>
 
+---
 
 ## Related Publications
 
