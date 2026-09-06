@@ -95,5 +95,5 @@ Led by Dr. Wenlong Gaozhang from the University of Essex and in collaboration wi
 
 3. W. Gaozhang, Y. Li, **J. Shi**, K. Althoefer, A. Stilli, and H. A. Wurdemann,  
    **A modular variable stiffness co‐bot system achieving tasks flexibility and contact compliance**,  
-   *IEEE/ASME Transactions on Mechatronics*, 2025.  
+   *Advanced Science*, 2026.  
    [[PDF](/assets/pdf/Wenlong_as_2026.pdf)]
