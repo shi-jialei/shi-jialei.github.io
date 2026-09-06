@@ -13,6 +13,7 @@ My research develops tools and resources that support soft robot development pip
 
 Collectively, these contributions aim to reduce development time, improve experimental reproducibility and facilitate the translation of soft robotic technologies into practical applications.
 
+---
 
 ## Benchmarking Platforms
 
@@ -30,6 +31,7 @@ The platform was demonstrated through three representative soft robotic systems:
     Experimental latform for the actuation, characterisation and control validation of pneumatically driven soft robots.
 </div>
 
+---
 
 ## Fabrication and Design Methodologies
 
@@ -70,6 +72,7 @@ The combined simulation and experimental study investigated the influence of man
   <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/iOySVLSlTZo" allowfullscreen></iframe>
 </div>
 
+---
 
 ## Software and GUI Toolboxes
 
@@ -103,6 +106,8 @@ The modelling framework considers several important sources of nonlinear behavio
 - stiffness changes in pressurised chambers;
 - linear and nonlinear hyperelastic material models;
 - variations in robot diameter, length and chamber geometry.
+
+---
 
 ## Related Publications
 
