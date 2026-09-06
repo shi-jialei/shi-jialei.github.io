@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fundamentals of Soft Continuum Robots
+title: Fundamental Modelling and Control of Soft Continuum Robots
 description: Kinematics, stiffness modelling and model-based control of soft continuum robots
 img: assets/img/soft-robot-cover.jpg
 importance: 1
