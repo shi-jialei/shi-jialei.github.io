@@ -466,8 +466,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
-            },},{id: "projects-fundamentals-of-soft-continuum-robots",
-          title: 'Fundamentals of Soft Continuum Robots',
+            },},{id: "projects-fundamental-modelling-and-control-of-soft-continuum-robots",
+          title: 'Fundamental Modelling and Control of Soft Continuum Robots',
           description: "Kinematics, stiffness modelling and model-based control of soft continuum robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
