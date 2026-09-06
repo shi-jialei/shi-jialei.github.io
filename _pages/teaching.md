@@ -6,6 +6,13 @@ description: teaching ans supervision experiences
 nav: true
 nav_order: 5
 ---
+
+My teaching and supervision span control, robotics, instrumentation, mathematical modelling and medical robotics across UCL and Imperial College London. I have supported undergraduate and Master’s teaching through laboratory sessions, tutorials, assessment and the development of teaching materials.
+
+I also supervise and mentor PhD, MSc, undergraduate and UROP researchers working on soft robotics, robotic endoscopy, sensing and human–robot interaction. Several of these projects have led to peer-reviewed publications in venues including *IEEE Transactions on Robotics*, *IEEE/ASME Transactions on Mechatronics* and IEEE RoboSoft. I support students throughout the research process, from developing initial concepts to conducting experiments and preparing academic publications.
+
+---
+
 # Teaching
 
 > **MECH0010: Control and Instrumentation**, Postgraduate Teaching Assistants at UCL (Lab, tutorials, marking) - Undergraduates.
@@ -37,4 +44,4 @@ nav_order: 5
 
 # Recognition
 
-> Associate Fellow of the [Higher Education Academy (FHEA)](https://www.advance-he.ac.uk/fellowship), UK.
+> Associate Fellow of the [Higher Education Academy (AFHEA)](https://www.advance-he.ac.uk/fellowship), UK.
