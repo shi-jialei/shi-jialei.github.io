@@ -2,7 +2,7 @@
 layout: post
 title: We won 2026 IEEE RAS Healthcare and Medical Robotics Cross-TC Collaboration Best Paper Award!
 date: 2026-09-11
-inline: true
+inline: false
 related_posts: false
 ---
 
