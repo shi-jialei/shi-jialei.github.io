@@ -466,10 +466,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
-            },},{id: "news-our-paper-design-control-and-evaluation-of-a-novel-soft-everting-robot-for-colonoscopy-received-the-2026-ieee-ras-healthcare-and-medical-robotics-cross-tc-collaboration-best-paper-award-the-programme-conferred-one-best-paper-award-and-two-outstanding-paper-awards-with-our-paper-receiving-the-highest-distinction-based-on-its-interdisciplinary-synergy-scientific-contributions-and-impact-on-healthcare-and-medical-robotics-eligible-papers-were-published-between-1-august-2023-and-31-july-2026-in-ieee-robotics-and-automation-letters-ra-l-ieee-robotics-and-automation-magazine-ra-m-ieee-transactions-on-automation-science-and-engineering-t-ase-ieee-transactions-on-robotics-t-ro-ieee-transactions-on-field-robotics-t-fr-ieee-robotics-and-automation-practice-ra-p-ieee-transactions-on-medical-robotics-and-bionics-t-mrb-congratulations-and-sincere-thanks-to-all-co-authors-and-collaborators",
-          title: 'Our paper, “Design, Control, and Evaluation of a Novel Soft Everting Robot for...',
+            },},{id: "news-we-won-2026-ieee-ras-healthcare-and-medical-robotics-cross-tc-collaboration-best-paper-award",
+          title: 'We won 2026 IEEE RAS Healthcare and Medical Robotics Cross-TC Collaboration Best Paper...',
           description: "",
-          section: "News",},{id: "projects-fundamental-modelling-and-control-of-soft-continuum-robots",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_13/";
+            },},{id: "projects-fundamental-modelling-and-control-of-soft-continuum-robots",
           title: 'Fundamental Modelling and Control of Soft Continuum Robots',
           description: "Kinematics, stiffness modelling and model-based control of soft continuum robots",
           section: "Projects",handler: () => {
