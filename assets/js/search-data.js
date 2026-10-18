@@ -471,14 +471,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_13/";
-            },},{id: "projects-fundamental-modelling-and-control-of-soft-continuum-robots",
-          title: 'Fundamental Modelling and Control of Soft Continuum Robots',
-          description: "Kinematics, stiffness modelling and model-based control of soft continuum robots",
+            },},{id: "projects-biomechatronic-modelling-and-control",
+          title: 'Biomechatronic Modelling and Control',
+          description: "Physics-based modelling and model-based control of compliant and deformable robotic systems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-endoluminal-soft-robots",
-          title: 'Endoluminal Soft Robots',
-          description: "Soft robotic systems for minimally invasive endoluminal interventions",
+            },},{id: "projects-biomedical-and-minimally-invasive-robotics",
+          title: 'Biomedical and Minimally Invasive Robotics',
+          description: "Compliant robotic systems for diagnosis, endoscopy and minimally invasive intervention",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-vehicle-mechatronics-and-formula-student",
@@ -486,14 +486,14 @@ ninja.data = [{
           description: "Undergraduate and master projects on vehicle mechatronics, having fun of building racing cars!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-design-benchmarking-and-tools-for-soft-robotics",
-          title: 'Design, Benchmarking and Tools for Soft Robotics',
-          description: "Developing experimental platforms, fabrication methods, modelling frameworks and software tools for soft robot development and evaluation.",
+            },},{id: "projects-robotic-platforms-benchmarking-and-translation",
+          title: 'Robotic Platforms, Benchmarking and Translation',
+          description: "Experimental platforms, benchmarking methods and enabling tools for reproducible development and translation of robotic technologies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-physical-human-robot-interaction-and-haptics",
-          title: 'Physical Human–Robot Interaction and Haptics',
-          description: "Active regulation and perception of robot–environment interaction",
+            },},{id: "projects-sensing-haptics-and-adaptive-interaction",
+          title: 'Sensing, Haptics and Adaptive Interaction',
+          description: "Multimodal sensing, state and force estimation, haptics, and adaptive control for safe physical interaction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{
