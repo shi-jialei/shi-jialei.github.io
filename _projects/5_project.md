@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Physical Human–Robot Interaction and Haptics
-description: Active regulation and perception of robot–environment interaction
+title: Sensing and Adaptive Physical Interaction
+description: Multimodal sensing, state and force estimation, haptics, and adaptive control for safe physical interaction
 img: assets/img/wearing_haptics.jpg
-importance: 3
+importance: 2
 category: work
 ---
 
