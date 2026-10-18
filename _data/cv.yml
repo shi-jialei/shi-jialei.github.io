@@ -59,26 +59,39 @@ cv:
           - Selected for RSS Pioneers 2024.
           - Awarded the UCL Dean's Prize Research Scholarship.
           - Received the UCL Mechanical Engineering Highly Commended PhD Thesis Award.
-
+          
+      - institution: Tsinghua Univeristy
+        studyType: Visiting Master Student
+        start_date: 2017-12
+        end_date: 2019-06
+        highlights:
+          - Led the system integration, and adaptive backstepping control strategy of an electro-hydraulic brake-by-wire system.
+          - (Co-)authored 7 peer-reviewed publications in leading journals, including IEEE/ASME T-Mech and Mechanical Systems and Signal Processing
+          
       - institution: Beijing Institute of Technology
         studyType: Master of Engineering
         start_date: 2017-09
         end_date: 2019-06
         highlights:
-          - Conducted research at Tsinghua University as a visiting master's student.
-          - Awarded the First Prize Postgraduate Scholarship.
+          - Graduated with a GPA of 82.2/100 (equiv. Distinction).
+          - Awarded the First Prize Postgraduate Scholarship (top 10%) for outstanding academic performance.
 
       - institution: Harbin Institute of Technology
         studyType: Bachelor of Engineering
         start_date: 2013-09
         end_date: 2017-06
         highlights:
-          - Ranked first for graduate-school recommendation.
+          - Ranked first out of 90 students for graduate-school recommendation.
           - Served as Team Leader of the HIT Racing Team.
           - Won the Formula Student Electric China Championship.
           - Received the Best Electrical System Design Award at Student Formula Japan.
 
     Selected Honours & Awards:
+
+        - title: IEEE RAS Healthcare and Medical Robotics Cross-TC Best Paper Award
+        date: "2026"
+        awarder: IEEE Robotics and Automation Society (IEEE RAS)
+        
       - title: IEEE Transactions on Robotics King-Sun Fu Memorial Best Paper Award — Honorable Mention
         date: "2026"
         awarder: IEEE Transactions on Robotics
