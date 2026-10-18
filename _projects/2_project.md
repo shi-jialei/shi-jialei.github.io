@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Endoluminal Soft Robots
-description: Soft robotic systems for minimally invasive endoluminal interventions
+title: Biomedical and Minimally Invasive Robotics
+description: Compliant robotic systems for diagnosis, endoscopy and minimally invasive intervention.
 img: assets/img/medical-robot.jpg
-importance: 4
+importance: 3
 category: work
 ---
 
