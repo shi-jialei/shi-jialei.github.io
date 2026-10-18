@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fundamental Modelling and Control of Soft Continuum Robots
-description: Kinematics, stiffness modelling and model-based control of soft continuum robots
+title: Biomechatronic Modelling and Control
+description: Physics-based modelling and model-based control of compliant and deformable robotic systems
 img: assets/img/soft-robot-cover.jpg
 importance: 1
 category: work
