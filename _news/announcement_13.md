@@ -20,6 +20,10 @@ Eligible papers were published between **1 August 2023 and 31 July 2026** in:
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    <img class="img-fluid rounded z-depth-1" src="/assets/img/Cross-TC-Best-Paper.png" alt="IEEE RAS Healthcare and Medical Robotics Cross-TC Collaboration Best Paper Award" data-zoomable>
+    <img
+      class="img-fluid rounded z-depth-1"
+      src="/assets/img/Cross-TC-Best-Paper.png"
+      alt="IEEE RAS Healthcare and Medical Robotics Cross-TC Collaboration Best Paper Award"
+      data-zoomable>
   </div>
 </div>
