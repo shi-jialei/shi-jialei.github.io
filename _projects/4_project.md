@@ -65,6 +65,18 @@ A particular focus is the development of **active mesenteric simulation**, allow
 
 The broader aim is to establish benchmarking approaches that enable **objective comparison of conventional and robotic endoscopic systems without requiring device-specific modification**.
 
+<div class="row">
+   <div class="col-sm mt-3 mt-md-0">
+       {% include figure.liquid
+          loading="eager"
+          path="assets/img/conlon_rig.png.png"
+          title="A reconfigurable robotic benchmarking platform with active mesenteric simulation for colonoscope evaluation"
+          class="img-fluid rounded z-depth-1"
+       %}
+   </div>
+</div>
+
+
 ---
 
 ## Reproducible Fabrication and Design
