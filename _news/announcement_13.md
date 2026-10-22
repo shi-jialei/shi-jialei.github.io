@@ -19,3 +19,6 @@ Eligible papers were published between **1 August 2023 and 31 July 2026** in:
 - *IEEE Transactions on Medical Robotics and Bionics (T-MRB)*
 
 Congratulations and sincere thanks to all co-authors and collaborators!
+
+
+Cross-TC-Best-Paper.png
