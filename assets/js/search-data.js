@@ -451,6 +451,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
+            },},{id: "news-we-received-70-000-from-imperial-s-ukri-iaa-award",
+          title: 'We Received £70,000 from Imperial’s UKRI IAA Award',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_14/";
             },},{id: "news-we-won-second-prize-in-2026-ieee-robosoft-in-pipe-locomotion-competition",
           title: 'We won Second Prize in 2026 IEEE RoboSoft In-Pipe Locomotion Competition!',
           description: "",
