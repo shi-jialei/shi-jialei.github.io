@@ -425,7 +425,12 @@ ninja.data = [{
             },},{id: "news-i-serve-as-web-social-media-chairs-for-rss-pioneer-2025",
           title: 'I serve as Web/Social Media Chairs for RSS Pioneer 2025!',
           description: "",
-          section: "News",},{id: "news-i-receive-ieee-ra-l-outstanding-reviewer-award-2025",
+          section: "News",},{id: "news-we-received-70-000-from-imperial-s-ukri-iaa-award",
+          title: 'We Received £70,000 from Imperial’s UKRI IAA Award',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_14/";
+            },},{id: "news-i-receive-ieee-ra-l-outstanding-reviewer-award-2025",
           title: 'I receive IEEE RA-L Outstanding Reviewer Award (2025)!',
           description: "",
           section: "News",},{id: "news-my-thesis-is-awarded-as-runner-up-for-the-2025-ucl-mechanical-engineering-outstanding-phd-thesis",
@@ -451,11 +456,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
-            },},{id: "news-we-received-70-000-from-imperial-s-ukri-iaa-award",
-          title: 'We Received £70,000 from Imperial’s UKRI IAA Award',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_14/";
             },},{id: "news-we-won-second-prize-in-2026-ieee-robosoft-in-pipe-locomotion-competition",
           title: 'We won Second Prize in 2026 IEEE RoboSoft In-Pipe Locomotion Competition!',
           description: "",
